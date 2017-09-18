@@ -131,7 +131,37 @@ var FrontGuide =
                     },
                 ]
             },
-
+            {
+                "pageT1":"书籍圈",
+                "pageC1":[
+                    {
+                        "pageT2":"经济学",
+                        "pageC2":[
+                            {'Name':'穷查理宝典','Title':'查理·芒格的智慧箴言录','Href':'http://e.dangdang.com/pc/reader/index.html?id=1900568573',"New":"1"},
+                        ]
+                    },
+                    {
+                        "pageT2":"产品设计/交互/UED",
+                        "pageC2":[
+                            {'Name':'认知与设计','Title':'理解 UI 设计准则-从认知心理学的角度来阐释互联网产品的交互设计','Href':'#'},
+                ]
+                    },
+                    {
+                        "pageT2":"思维方式/软实力",
+                        "pageC2":[
+                            {'Name':'金字塔原理','Title':'思考、表达和解决问题的逻辑','Href':'http://e.dangdang.com/pc/reader/index.html?id=1900568573',"New":"1"},
+                            {'Name':'刻意练习','Title':'天才的成就源于“正确的练习”，这种提高技能的黄金标准被定义为「刻意练习」','Href':'https://book.douban.com/review/8345902/'},
+                            {'Name':'异类','Title':'不一样的成功启示录','Href':'https://www.amazon.cn/dp/B00R5CI4FE'},
+                        ]
+                    },
+                    {
+                        "pageT2":"互联网通识",
+                        "pageC2":[
+                            {'Name':'黑客与画家','Title':'向着未来而生','Href':'http://www.ruanyifeng.com/blog/2013/11/being-toward-future.html',"New":"1"},
+                        ]
+                    },
+                ]
+            },
             {
                 "pageT1":"生活圈",
                 "pageC1":[
