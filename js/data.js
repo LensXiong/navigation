@@ -37,45 +37,18 @@ var FrontGuide =
                             {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
                             {'Name':'Redis 中文','Title':'Redis 中文网站。','Href':'http://www.redis.cn/'},
                             {'Name':'Mysql 社区','Title':'Mysql 中文社区。','Href':'http://www.mysqlpub.com/'},
+                            {'Name':'Redis 教程','Title':'Redis 教程。','Href':'http://www.runoob.com/redis/redis-tutorial.html'},
 
                         ]
                     },
                     {
                         "pageT2":"Linux相关",
                         "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
-                            {'Name':'Redis 中文','Title':'Redis 中文网站。','Href':'http://www.redis.cn/'},
-                            {'Name':'Mysql 社区','Title':'Mysql 中文社区。','Href':'http://www.mysqlpub.com/'},
+                            {'Name':'Linux 教程','Title':'Linux的发行版本Centos,介绍Linux系统的应用','Href':'http://www.runoob.com/linux/linux-tutorial.html'},
 
                         ]
                     }
 
-                ]
-            },
-            {
-                "pageT1":"工作圈",
-                "pageC1":[
-                    {
-                        "pageT2":"PHP相关",
-                        "pageC2":[
-                            {'Name':'Laravel 官方','Title':'The PHP Framework For Web Artisans','Href':'https://laravel.com/',"New":"1"},
-
-                        ]
-                    },
-                    {
-                        "pageT2":"数据库相关",
-                        "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
-
-                        ]
-                    },
-                    {
-                        "pageT2":"Linux相关",
-                        "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
-
-                        ]
-                    }
                 ]
             },
             {
@@ -93,10 +66,11 @@ var FrontGuide =
                     {
                         "pageT2":"协作管理",
                         "pageC2":[
-                            {'Name':'Github','Title':'Built for developers','Href':'https://github.com/login'},
+                            {'Name':'Github','Title':'Built for developers','Href':'https://github.com/LensXiong'},
                             {'Name':'Coding','Title':'让开发更简单','Href':'https://coding.net/'},
                             {'Name':'Worktile','Title':'让工作更简单','Href':'https://my.worktile.com/signin'},
                             {'Name':'Tower','Title':'你的网上办公室','Href':'https://tower.im/users/sign_in'},
+                            {'Name':'墨刀','Title':'强大易用的原型设计与协同工具','Href':'https://modao.cc/workspace/apps'},
 
                         ]
                     },
@@ -106,33 +80,55 @@ var FrontGuide =
                             {'Name':'滴答清单','Title':'轻便的待办事项应用','Href':'https://dida365.com/#q/all/tasks'},
 
                         ]
+                    },
+                    {
+                        "pageT2":"知识管理",
+                        "pageC2":[
+                            {'Name':'为知笔记','Title':'一个强大的个人知识管理软件，具备强大的知识管理能力。','Href':'https://note.wiz.cn/login'},
+                            {'Name':'印象笔记','Title':'An elephant never forgets.大象永远不会忘记事情','Href':'https://www.yinxiang.com/'},
+                            {'Name':'XMind','Title':'流行思维导图软件，打造易用、美观、高效的可视化思维管理工具。','Href':'http://www.xmindchina.net/'},
+                            {'Name':'Markdown','Title':'为记录思想和分享知识提供更专业的工具。','Href':'https://www.zybuluo.com/mdeditor#425949'},
+
+                        ]
                     }
                 ]
             },
             {
+                "pageT1":"工作圈",
+                "pageC1":[
+                    {
+                        "pageT2":"爱木财富",
+                        "pageC2":[
+                            {'Name':'本地环境','Title':'本地前台','Href':'http://www.aimutou.cc/'},
+                            {'Name':'本地后台','Title':'本地环境后台','Href':'http://www.aimutou.cc/aht337/admin/user/login/index'},
+
+                            {'Name':'测试环境','Title':'测试环境','Href':'http://www.zhuomn.cn/'},
+                            {'Name':'测试后台','Title':'测试环境后台','Href':'http://www.zhuomn.cn/aht337/admin/user/login/index'},
+
+                            {'Name':'生产环境','Title':'生产环境','Href':'https://www.imtou.com/'},
+                            {'Name':'生产后台','Title':'生产环境后台','Href':'https://www.imtou.com/aht337/admin/user/login/index'},
+
+                            {'Name':'本地企业','Title':'本地环境企业后台','Href':'http://www.aimutou.cc/loan/login/index'},
+                            {'Name':'测试企业','Title':'测试环境企业后台','Href':'http://www.zhuomn.cn/loan/login/index'},
+
+                            {'Name':'SSDB本地','Title':'本地环境SSDB amt amtssdb','Href':'http://192.168.56.101/ssdb/kv/scan'},
+                            {'Name':'SSDB测试','Title':'本地环境SSDB imtou imtou@8962','Href':'http://182.92.209.29/ssdb/login'},
+
+                        ]
+                    },
+                ]
+            },
+
+            {
                 "pageT1":"工具圈",
                 "pageC1":[
                     {
-                        "pageT2":"PHP相关",
+                        "pageT2":"开发软件",
                         "pageC2":[
-                            {'Name':'Laravel 官方','Title':'The PHP Framework For Web Artisans','Href':'https://laravel.com/',"New":"1"},
+                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
 
                         ]
                     },
-                    {
-                        "pageT2":"数据库相关",
-                        "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
-
-                        ]
-                    },
-                    {
-                        "pageT2":"Linux相关",
-                        "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
-
-                        ]
-                    }
                 ]
             },
 
@@ -150,14 +146,14 @@ var FrontGuide =
                     {
                         "pageT2":"音乐频道",
                         "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+                            {'Name':'网易云音乐','Title':'网易云音乐，听见好时光。','Href':'http://music.163.com/'},
 
                         ]
                     },
                     {
                         "pageT2":"摄影频道",
                         "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+                            {'Name':'尼克尔俱乐部','Title':'影像，从心','Href':'http://www.nikkorclub.com.cn/'},
 
                         ]
                     }
