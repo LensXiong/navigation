@@ -1,76 +1,206 @@
-/* 
-* @Author: luuman
-* @Last Modified by:   luuman
-* @Date:   2016-03-09 13:13:56
-* @Last Modified time: 2016-04-07 14:29:18
-* @Function: Data FrontEndGuide
-    "Name":"name"
-    "Title":"title"
-    "Href":"htttp:"
-    "New":"new","New":"1"
-    {'Name':'','Title':'','Href':''}, 
-    {'Name':'','Title':'','Href':'',"New":"1"}, 
-*/
-var FrontGuide = {
-    "main":[{
-        "pageT1":"圈子",
-        "pageC1":[{
-            "pageT2":"前端教程",
-            "pageC2":[
-                {'Name':'慕课网','Title':'在线视频教程，在线代码练习','Href':'http://www.imooc.com/',"New":"1"}, 
-                {'Name':'极客学院','Title':'在线视频教学，强大的知识体系','Href':'http://www.jikexueyuan.com/'},
-                {'Name':'teamtree','Title':'改变你的事业。改变你的生活。','Href':'https://teamtreehouse.com/'},
-                {'Name':'Codecademy','Title':'Codecademy是最简单的方式来学习如何编码。这是互动的，有趣的，你可以做它与你的朋友','Href':'https://www.codecademy.com/learn',"New":"1"},
-                {'Name':'萌码','Title':'在线编程学习，实时问答，交互学习','Href':'http://www.mengma.com/'},
-                {'Name':'实验楼','Title':'第一家以实验为核心的IT在线教育平台','Href':'https://www.shiyanlou.com/'},
-                {'Name':'墨鱼前端','Title':'前端开发培训的公司','Href':'http://moyu-edu.com/'},
-            ]
-            },{
-            "pageT2":"前端知识",
-            "pageC2":[
-                {'Name':'w3cschool','Title':'万维网联盟创建于1994年，是WEB技术领域最具权威和影响力的国际中立性技术标准机构','Href':'http://www.w3school.com.cn/'},
-                {'Name':'菜鸟教程','Title':'学的不仅是技术，更是梦想！','Href':'http://www.runoob.com/'},
-                {'Name':'前端江湖','Title':'','Href':'http://www.qdjhu.com/sitemap3.html'},
-                {'Name':'Mozilla','Title':'Mozilla 开发者网络','Href':'https://developer.mozilla.org/zh-CN/'},
-                {'Name':'W3Help','Title':'系统的介绍某些知识点，帮助开发者正确理解该知识点的概念及与其他知识点的关联性，梳理知识体系。','Href':'http://www.w3help.org/zh-cn/kb/'},
-                {'Name':'看云','Title':'','Href':'http://www.kancloud.cn/'},
-                {'Name':'JS前端开发群月报','Title':'平日学习接触过的网站积累，以每月的形式发放','Href':'http://www.kancloud.cn/jsfront/month/82796/'},
-                {'Name':'前端开发规范手册','Title':'此手册主要实现的目标：代码一致性和最佳实践。通过代码风格的一致性，降低维护代码的成本以及改善多人协作的效率。同时遵守最佳实践，确保页面性能得到最佳优化和高效的代码。','Href':'http://zhibimo.com/read/Ashu/front-end-style-guide/index.html'},
-                {'Name':'Developer进阶书单','Title':'我深知自己的知识有限，所以写下本文以便和大家切磋交流。欢迎通过 GitHub 的Issues或者直接Pull Requests方式来分享你的经验。','Href':'http://phodal.github.io/booktree/#frontend'},
-                {'Name':'设计派导航','Title':'','Href':'http://hao.shejipai.cn/'},
-                {'Name':'前端人的俱乐部','Title':'做专业的前端平台，提供你需要的东西解放你的收藏夹，让它们只做最主要的事情','Href':'http://f2er.club/'},
-                {'Name':'觉唯','Title':'','Href':'http://www.jiawin.com/'},
-            ]
-        }]
-    },{
-        "pageT1":"圈子圈子",
-        "pageC1":[{
-            "pageT2":"前端教程",
-            "pageC2":[
-                {'Name':'慕课网','Title':'在线视频教程，在线代码练习','Href':'http://www.imooc.com/',"New":"1"}, 
-                {'Name':'极客学院','Title':'在线视频教学，强大的知识体系','Href':'http://www.jikexueyuan.com/'},
-                {'Name':'teamtree','Title':'改变你的事业。改变你的生活。','Href':'https://teamtreehouse.com/'},
-                {'Name':'Codecademy','Title':'Codecademy是最简单的方式来学习如何编码。这是互动的，有趣的，你可以做它与你的朋友','Href':'https://www.codecademy.com/learn',"New":"1"},
-                {'Name':'萌码','Title':'在线编程学习，实时问答，交互学习','Href':'http://www.mengma.com/'},
-                {'Name':'实验楼','Title':'第一家以实验为核心的IT在线教育平台','Href':'https://www.shiyanlou.com/'},
-                {'Name':'墨鱼前端','Title':'前端开发培训的公司','Href':'http://moyu-edu.com/'},
-            ]
-            },{
-            "pageT2":"前端知识",
-            "pageC2":[
-                {'Name':'w3cschool','Title':'万维网联盟创建于1994年，是WEB技术领域最具权威和影响力的国际中立性技术标准机构','Href':'http://www.w3school.com.cn/'},
-                {'Name':'菜鸟教程','Title':'学的不仅是技术，更是梦想！','Href':'http://www.runoob.com/'},
-                {'Name':'前端江湖','Title':'','Href':'http://www.qdjhu.com/sitemap3.html'},
-                {'Name':'Mozilla','Title':'Mozilla 开发者网络','Href':'https://developer.mozilla.org/zh-CN/'},
-                {'Name':'W3Help','Title':'系统的介绍某些知识点，帮助开发者正确理解该知识点的概念及与其他知识点的关联性，梳理知识体系。','Href':'http://www.w3help.org/zh-cn/kb/'},
-                {'Name':'看云','Title':'','Href':'http://www.kancloud.cn/'},
-                {'Name':'JS前端开发群月报','Title':'平日学习接触过的网站积累，以每月的形式发放','Href':'http://www.kancloud.cn/jsfront/month/82796/'},
-                {'Name':'前端开发规范手册','Title':'此手册主要实现的目标：代码一致性和最佳实践。通过代码风格的一致性，降低维护代码的成本以及改善多人协作的效率。同时遵守最佳实践，确保页面性能得到最佳优化和高效的代码。','Href':'http://zhibimo.com/read/Ashu/front-end-style-guide/index.html'},
-                {'Name':'Developer进阶书单','Title':'我深知自己的知识有限，所以写下本文以便和大家切磋交流。欢迎通过 GitHub 的Issues或者直接Pull Requests方式来分享你的经验。','Href':'http://phodal.github.io/booktree/#frontend'},
-                {'Name':'设计派导航','Title':'','Href':'http://hao.shejipai.cn/'},
-                {'Name':'前端人的俱乐部','Title':'做专业的前端平台，提供你需要的东西解放你的收藏夹，让它们只做最主要的事情','Href':'http://f2er.club/'},
-                {'Name':'觉唯','Title':'','Href':'http://www.jiawin.com/'},
-            ]
-        }]
-    }],
-}
+/*
+ * @Author: wangxiong
+ * @Last Modified by:  wangxiong
+ * @Date:   2017-06-09 13:13:56
+ * @Last Modified time: 2017-09-18 14:29:18
+ * @Function: Data FrontEndGuide
+ "Name":"name"
+ "Title":"title"
+ "Href":"htttp:"
+ "New":"new","New":"1"
+ {'Name':'','Title':'','Href':''},
+ {'Name':'','Title':'','Href':'',"New":"1"},
+ */
+var FrontGuide =
+    {
+        "main":[
+            {
+                "pageT1":"技术圈",
+                "pageC1":[
+                    {
+                        "pageT2":"PHP相关",
+                        "pageC2":[
+                            {'Name':'Laravel 官方','Title':'The PHP Framework For Web Artisans','Href':'https://laravel.com/',"New":"1"},
+                            {'Name':'Yii 官方','Title':'The Fast, Secure and Professional PHP Framework','Href':'http://www.yiiframework.com/'},
+                            {'Name':'Laravist','Title':'为 Web 开发者而生,愿景是做最好的 PHP Laravel Vue.js 中文视频教程和问答社区。','Href':'https://www.codecasts.com/'},
+                            {'Name':'Laravel 学院','Title':'Laravel学院致力于提供优质的Laravel中文学习资源，帮助你快速上手，从入门到精通，让这个世界上最流行的PHP框架在中国拥有更多拥趸。','Href':'http://laravelacademy.org/'},
+                            {'Name':'Yii 中文','Title':'Yii Framework 中文社区文档中心','Href':'http://www.yiichina.com/doc'},
+                            {'Name':'PHP 手册','Title':'PHP 官方中文手册','Href':'http://www.php.net/manual/zh/'},
+                            {'Name':'PHP 之道','Title':'PHP 之道收集了现有的 PHP 最佳实践、编码规范和权威学习指南，方便 PHP 开发者阅读和查找。','Href':'http://laravel-china.github.io/php-the-right-way/'},
+                            {'Name':'Packagist','Title':'The PHP Package Repository','Href':'https://packagist.org/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"数据库相关",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+                            {'Name':'Redis 中文','Title':'Redis 中文网站。','Href':'http://www.redis.cn/'},
+                            {'Name':'Mysql 社区','Title':'Mysql 中文社区。','Href':'http://www.mysqlpub.com/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"Linux相关",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+                            {'Name':'Redis 中文','Title':'Redis 中文网站。','Href':'http://www.redis.cn/'},
+                            {'Name':'Mysql 社区','Title':'Mysql 中文社区。','Href':'http://www.mysqlpub.com/'},
+
+                        ]
+                    }
+
+                ]
+            },
+            {
+                "pageT1":"工作圈",
+                "pageC1":[
+                    {
+                        "pageT2":"PHP相关",
+                        "pageC2":[
+                            {'Name':'Laravel 官方','Title':'The PHP Framework For Web Artisans','Href':'https://laravel.com/',"New":"1"},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"数据库相关",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"Linux相关",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+
+                        ]
+                    }
+                ]
+            },
+            {
+                "pageT1":"管理圈",
+                "pageC1":[
+                    {
+                        "pageT2":"邮件管理",
+                        "pageC2":[
+                            {'Name':'Gmail 邮箱','Title':'Gmail邮箱','Href':'https://mail.google.com/mail/u/0/?tab=im#inbox',"New":"1"},
+                            {'Name':'QQ 邮箱','Title':'QQ邮箱','Href':'https://mail.qq.com/'},
+                            {'Name':'腾讯企业邮箱','Title':'腾讯企业邮箱','Href':'https://exmail.qq.com/cgi-bin/loginpage'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"协作管理",
+                        "pageC2":[
+                            {'Name':'Github','Title':'Built for developers','Href':'https://github.com/login'},
+                            {'Name':'Coding','Title':'让开发更简单','Href':'https://coding.net/'},
+                            {'Name':'Worktile','Title':'让工作更简单','Href':'https://my.worktile.com/signin'},
+                            {'Name':'Tower','Title':'你的网上办公室','Href':'https://tower.im/users/sign_in'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"时间管理",
+                        "pageC2":[
+                            {'Name':'滴答清单','Title':'轻便的待办事项应用','Href':'https://dida365.com/#q/all/tasks'},
+
+                        ]
+                    }
+                ]
+            },
+            {
+                "pageT1":"工具圈",
+                "pageC1":[
+                    {
+                        "pageT2":"PHP相关",
+                        "pageC2":[
+                            {'Name':'Laravel 官方','Title':'The PHP Framework For Web Artisans','Href':'https://laravel.com/',"New":"1"},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"数据库相关",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"Linux相关",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+
+                        ]
+                    }
+                ]
+            },
+
+            {
+                "pageT1":"生活圈",
+                "pageC1":[
+                    {
+                        "pageT2":"购物频道",
+                        "pageC2":[
+                            {'Name':'网易严选','Title':'好的生活，没那么贵','Href':'http://you.163.com/',"New":"1"},
+                            {'Name':'必要商城','Title':'我要的，才是必要的','Href':'http://www.biyao.com/',"New":"1"},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"音乐频道",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"摄影频道",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+
+                        ]
+                    }
+                ]
+            },
+            {
+                "pageT1":"博客圈",
+                "pageC1":[
+                    {
+                        "pageT2":"我的链接",
+                        "pageC2":[
+                            {'Name':'博客主页','Title':'我的主页','Href':'http://wwxiong.com/',"New":"1"},
+                            {'Name':'技术博客','Title':'文章列表','Href':'http://wwxiong.com/hexo_blog'},
+                            {'Name':'前端导航','Title':'导航列表','Href':'http://wwxiong.com/navigation/index.html'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"好友链接",
+                        "pageC2":[
+                            {'Name':'小韦运维博客','Title':'小韦的博客','Href':'https://carey.akhack.com/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"关注链接",
+                        "pageC2":[
+                            {'Name':'阿里中间件团队博客','Title':'致力于成为中国第一，世界一流的中间件技术团队','Href':'http://jm.taobao.org/'},
+                            {'Name':'王巍 (@onevcat)','Title':'上善若水，人淡如菊','Href':'https://onevcat.com/'},
+                            {'Name':'罗磊的独立博客','Title':'在每一个美好的思想前停留','Href':'https://luolei.org/'},
+                            {'Name':'张丹(Conan)','Title':'跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, NoSQL, IT金融','Href':'http://blog.fens.me/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"友情链接",
+                        "pageC2":[
+                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+
+                        ]
+                    }
+
+                ]
+            },
+        ],
+    }
