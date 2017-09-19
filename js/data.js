@@ -134,6 +134,14 @@ var FrontGuide =
 
                         ]
                     },
+                    {
+                        "pageT2":"爱木财富",
+                        "pageC2":[
+                            {'Name':'本地环境','Title':'本地前台','Href':'http://www.aimutou.cc/'},
+                            {'Name':'本地后台','Title':'本地环境后台','Href':'http://www.aimutou.cc/aht337/admin/user/login/index'},
+
+                        ]
+                    },
                 ]
             },
             {
@@ -156,6 +164,12 @@ var FrontGuide =
                         "pageC2":[
                             {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
 
+                        ]
+                    },
+                    {
+                        "pageT2":"VPN",
+                        "pageC2":[
+                            {'Name':'蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
                         ]
                     },
                 ]
