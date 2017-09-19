@@ -42,9 +42,27 @@ var FrontGuide =
                         ]
                     },
                     {
-                        "pageT2":"Linux相关",
+                        "pageT2":"Linux 相关",
                         "pageC2":[
                             {'Name':'Linux 教程','Title':'Linux的发行版本Centos,介绍Linux系统的应用','Href':'http://www.runoob.com/linux/linux-tutorial.html'},
+                            {'Name':'鸟哥的Linux私房菜(第四版)','Title':'鸟哥的Linux私房菜-基础学习篇(第四版)高清完整书签PDF版','Href':'https://carey.akhack.com/img/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87(%E7%AC%AC%E5%9B%9B%E7%89%88)%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E4%B9%A6%E7%AD%BEPDF%E7%89%88%EF%BC%88Linuxidc.com%EF%BC%89.pdf'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"Nginx 相关",
+                        "pageC2":[
+                            {'Name':'Nginx 英文','Title':'英文文档','Href':'http://nginx.org/'},
+                            {'Name':'Nginx 中文','Title':'中文文档','Href':'http://www.nginx.cn/doc/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"版本控制",
+                        "pageC2":[
+                            {'Name':'SVN 命令','Title':'SVN 命令参考（svn command reference）','Href':'http://oss.akhack.com/man/svn_cmd.html'},
+                            {'Name':'PRO GIT','Title':'此书由Scott Chacon所著，并且书籍内容完全开源，以Creative Commons Attribution Non Commercial Share Alike 3.0 license共享。书籍源码放置在Github的progit/progit仓库中。 打印版本由Apress出版发行，美国亚马逊购买链接：Amazon.com Link。','Href':'http://iissnan.com/progit/'},
+                            {'Name':'Git 教程','Title':'廖雪峰 Git 教程','Href':'https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000'},
 
                         ]
                     }
@@ -118,7 +136,18 @@ var FrontGuide =
                     },
                 ]
             },
+            {
+                "pageT1":"笔记圈",
+                "pageC1":[
+                    {
+                        "pageT2":"Linux",
+                        "pageC2":[
+                            {'Name':'Linux 命令（上）','Title':'Linux 命令','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2g26k52x_QHy2NBj6G11q6Es'},
 
+                        ]
+                    },
+                ]
+            },
             {
                 "pageT1":"工具圈",
                 "pageC1":[
