@@ -70,6 +70,40 @@ var FrontGuide =
                 ]
             },
             {
+                "pageT1":"工具圈",
+                "pageC1":[
+                    {
+                        "pageT2":"常用登录",
+                        "pageC2":[
+                            {'Name':'阿里云','Title':'为了无法计算的价值','Href':'https://www.aliyun.com/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"常用工具",
+                        "pageC2":[
+                            {'Name':'Unix时间戳','Title':'站长之家','Href':'http://tool.chinaz.com/Tools/unixtime.aspx'},
+                            {'Name':'JSON在线视图查看器','Title':'Online JSON Viewer','Href':'http://www.bejson.com/jsonviewernew/'},
+                            {'Name':'在线JSON校验格式化工具','Title':'Be JSON','Href':'http://www.bejson.com/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"开发软件",
+                        "pageC2":[
+                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"VPN",
+                        "pageC2":[
+                            {'Name':'蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
+                        ]
+                    },
+                ]
+            },
+            {
                 "pageT1":"管理圈",
                 "pageC1":[
                     {
@@ -135,10 +169,9 @@ var FrontGuide =
                         ]
                     },
                     {
-                        "pageT2":"爱木财富",
+                        "pageT2":"线上环境",
                         "pageC2":[
-                            {'Name':'本地环境','Title':'本地前台','Href':'http://www.aimutou.cc/'},
-                            {'Name':'本地后台','Title':'本地环境后台','Href':'http://www.aimutou.cc/aht337/admin/user/login/index'},
+                            {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
 
                         ]
                     },
@@ -156,24 +189,7 @@ var FrontGuide =
                     },
                 ]
             },
-            {
-                "pageT1":"工具圈",
-                "pageC1":[
-                    {
-                        "pageT2":"开发软件",
-                        "pageC2":[
-                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
 
-                        ]
-                    },
-                    {
-                        "pageT2":"VPN",
-                        "pageC2":[
-                            {'Name':'蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
-                        ]
-                    },
-                ]
-            },
             {
                 "pageT1":"书籍圈",
                 "pageC1":[
