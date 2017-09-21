@@ -18,7 +18,7 @@ var FrontGuide =
                 "pageT1":"技术圈",
                 "pageC1":[
                     {
-                        "pageT2":"PHP相关",
+                        "pageT2":"PHP 相关",
                         "pageC2":[
                             {'Name':'Laravel 官方','Title':'The PHP Framework For Web Artisans','Href':'https://laravel.com/',"New":"1"},
                             {'Name':'Yii 官方','Title':'The Fast, Secure and Professional PHP Framework','Href':'http://www.yiiframework.com/'},
@@ -32,9 +32,20 @@ var FrontGuide =
                         ]
                     },
                     {
-                        "pageT2":"数据库相关",
+                        "pageT2":"Web 相关",
                         "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+                            {'Name':'Web 开发','Title':'Web development tutorials','Href':'https://www.w3resource.com/'},
+                            {'Name':'jQuery  英文手册','Title':'Write Less，Do More','Href':'https://www.w3resource.com/'},
+                            {'Name':'jQuery  中文手册','Title':'Write Less，Do More','Href':'http://www.jquery123.com/'},
+                            {'Name':'Vuejs 教程','Title':'渐进式 JavaScript 框架','Href':'https://cn.vuejs.org/v2/guide/'},
+                            {'Name':'Bootstrap 教程','Title':'简洁、直观、强悍的前端开发框架，让web开发更迅速、简单。','Href':'http://v3.bootcss.com/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"DBA 相关",
+                        "pageC2":[
+                            {'Name':'SSDB  官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
                             {'Name':'Redis 中文','Title':'Redis 中文网站。','Href':'http://www.redis.cn/commands.html'},
                             {'Name':'Redis 官方','Title':'Redis 官方网站。','Href':'https://redis.io/commands'},
                             {'Name':'Mysql 社区','Title':'Mysql 中文社区。','Href':'http://www.mysqlpub.com/'},
@@ -59,10 +70,27 @@ var FrontGuide =
                         ]
                     },
                     {
+                        "pageT2":"Api 文档",
+                        "pageC2":[
+                            {'Name':'微信公众平台开发','Title':'微信公众平台开发技术文档','Href':'https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432'},
+                            {'Name':'极光推送','Title':'JPush官方文档','Href':'https://docs.jiguang.cn/'},
+                            {'Name':'环信即时通讯云','Title':'环信即时通讯云 V3.0','Href':'http://docs.easemob.com/im/start'},
+                            {'Name':'TCPDF','Title':'Open Source PHP class for generating PDF documents','Href':'https://tcpdf.org/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"Github 相关",
+                        "pageC2":[
+                            {'Name':'TCPDF','Title':'PHP PDF Library','Href':'https://github.com/tecnickcom/TCPDF'},
+
+                        ]
+                    },
+                    {
                         "pageT2":"版本控制",
                         "pageC2":[
                             {'Name':'SVN 命令','Title':'SVN 命令参考（svn command reference）','Href':'http://oss.akhack.com/man/svn_cmd.html'},
-                            {'Name':'PRO GIT','Title':'此书由Scott Chacon所著，并且书籍内容完全开源，以Creative Commons Attribution Non Commercial Share Alike 3.0 license共享。书籍源码放置在Github的progit/progit仓库中。 打印版本由Apress出版发行，美国亚马逊购买链接：Amazon.com Link。','Href':'http://iissnan.com/progit/'},
+                            {'Name':'Pro Git','Title':'此书由Scott Chacon所著，并且书籍内容完全开源，以Creative Commons Attribution Non Commercial Share Alike 3.0 license共享。书籍源码放置在Github的progit/progit仓库中。 打印版本由Apress出版发行，美国亚马逊购买链接：Amazon.com Link。','Href':'http://iissnan.com/progit/'},
                             {'Name':'Git 教程','Title':'廖雪峰 Git 教程','Href':'https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000'},
 
                         ]
@@ -76,8 +104,8 @@ var FrontGuide =
                     {
                         "pageT2":"常用登录",
                         "pageC2":[
-                            {'Name':'维基百科英文','Title':'自由的百科全書','Href':'https://en.wikipedia.org/wiki/Main_Page'},
-                            {'Name':'维基百科中文','Title':'自由的百科全書','Href':'https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5'},
+                            {'Name':'维基百科 英文','Title':'自由的百科全書','Href':'https://en.wikipedia.org/wiki/Main_Page'},
+                            {'Name':'维基百科 中文','Title':'自由的百科全書','Href':'https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5'},
                             {'Name':'阿里云','Title':'为了无法计算的价值','Href':'https://www.aliyun.com/'},
 
                         ]
@@ -92,16 +120,26 @@ var FrontGuide =
                         ]
                     },
                     {
-                        "pageT2":"开发软件",
+                        "pageT2":"社交工具",
                         "pageC2":[
-                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
+                            {'Name':'Facebook','Title':'联系你我，分享生活','Href':'https://www.facebook.com/'},
+                            {'Name':'Twitter','Title':'聚焦当下','Href':'https://twitter.com/'},
 
                         ]
                     },
                     {
-                        "pageT2":"VPN",
+                        "pageT2":"其他工具",
                         "pageC2":[
-                            {'Name':'蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
+                            {'Name':'VPN 蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
+                            {'Name':'Google 地图','Title':'谷歌地图','Href':'http://www.google.cn/maps'},
+                            {'Name':'Postman','Title':'Developing APIs is hard,Postman makes it easy','Href':'https://www.getpostman.com/'},
+                        ]
+                    },
+                    {
+                        "pageT2":"开发软件",
+                        "pageC2":[
+                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
+
                         ]
                     },
                 ]
@@ -133,6 +171,7 @@ var FrontGuide =
                         "pageT2":"时间管理",
                         "pageC2":[
                             {'Name':'滴答清单','Title':'轻便的待办事项应用','Href':'https://dida365.com/#q/all/tasks'},
+                            {'Name':'褪墨时间管理','Title':'我们信仰成长与进步，生活和自由。所以相信自律，自控和自省才是是通往幸福境界的门钥匙。','Href':'https://www.mifengtd.cn/'},
 
                         ]
                     },
@@ -145,7 +184,7 @@ var FrontGuide =
                             {'Name':'Cmd Markdown','Title':'为记录思想和分享知识提供更专业的工具。','Href':'https://www.zybuluo.com/mdeditor#425949'},
 
                         ]
-                    }
+                    },
                 ]
             },
             {
@@ -193,14 +232,14 @@ var FrontGuide =
                     {
                         "pageT2":"MySQL",
                         "pageC2":[
-                            {'Name':'MySQL基础相关','Title':'MySQL基础相关','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
+                            {'Name':'MySQL 基础相关','Title':'MySQL基础相关','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
 
                         ]
                     },
                     {
                         "pageT2":"版本控制",
                         "pageC2":[
-                            {'Name':'Git分布式版本控制','Title':'Git 分布式版本控制','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1Qf_S82TAAwZ2NiT9q3W8iHh'},
+                            {'Name':'Git 分布式版本控制','Title':'Git 分布式版本控制','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1Qf_S82TAAwZ2NiT9q3W8iHh'},
 
                         ]
                     },
@@ -234,6 +273,12 @@ var FrontGuide =
                         "pageT2":"互联网通识",
                         "pageC2":[
                             {'Name':'黑客与画家','Title':'向着未来而生','Href':'http://www.ruanyifeng.com/blog/2013/11/being-toward-future.html',"New":"1"},
+                        ]
+                    },
+                    {
+                        "pageT2":"经典文章",
+                        "pageC2":[
+                            {'Name':'十大高明的Google搜索技巧','Title':'褪墨','Href':'https://www.mifengtd.cn/articles/ten-tips-for-smarter-google-searches.html',"New":"1"},
                         ]
                     },
                 ]
@@ -291,6 +336,7 @@ var FrontGuide =
                             {'Name':'王巍 (@onevcat)','Title':'上善若水，人淡如菊','Href':'https://onevcat.com/'},
                             {'Name':'罗磊的独立博客','Title':'在每一个美好的思想前停留','Href':'https://luolei.org/'},
                             {'Name':'张丹(Conan)','Title':'跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, NoSQL, IT金融','Href':'http://blog.fens.me/'},
+                            {'Name':'褪墨','Title':'褪墨 时间管理','Href':'https://www.mifengtd.cn/'},
 
                         ]
                     },
