@@ -35,7 +35,8 @@ var FrontGuide =
                         "pageT2":"数据库相关",
                         "pageC2":[
                             {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
-                            {'Name':'Redis 中文','Title':'Redis 中文网站。','Href':'http://www.redis.cn/'},
+                            {'Name':'Redis 中文','Title':'Redis 中文网站。','Href':'http://www.redis.cn/commands.html'},
+                            {'Name':'Redis 官方','Title':'Redis 官方网站。','Href':'https://redis.io/commands'},
                             {'Name':'Mysql 社区','Title':'Mysql 中文社区。','Href':'http://www.mysqlpub.com/'},
                             {'Name':'Redis 教程','Title':'Redis 教程。','Href':'http://www.runoob.com/redis/redis-tutorial.html'},
 
@@ -52,7 +53,7 @@ var FrontGuide =
                     {
                         "pageT2":"Nginx 相关",
                         "pageC2":[
-                            {'Name':'Nginx 英文','Title':'英文文档','Href':'http://nginx.org/'},
+                            {'Name':'Nginx 官方','Title':'官方英文文档','Href':'http://nginx.org/'},
                             {'Name':'Nginx 中文','Title':'中文文档','Href':'http://www.nginx.cn/doc/'},
 
                         ]
@@ -75,6 +76,8 @@ var FrontGuide =
                     {
                         "pageT2":"常用登录",
                         "pageC2":[
+                            {'Name':'维基百科英文','Title':'自由的百科全書','Href':'https://en.wikipedia.org/wiki/Main_Page'},
+                            {'Name':'维基百科中文','Title':'自由的百科全書','Href':'https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5'},
                             {'Name':'阿里云','Title':'为了无法计算的价值','Href':'https://www.aliyun.com/'},
 
                         ]
@@ -136,10 +139,10 @@ var FrontGuide =
                     {
                         "pageT2":"知识管理",
                         "pageC2":[
-                            {'Name':'为知笔记','Title':'一个强大的个人知识管理软件，具备强大的知识管理能力。','Href':'https://note.wiz.cn/login'},
+                            {'Name':'为知笔记','Title':'更适合国人使用的云笔记','Href':'https://note.wiz.cn/login'},
                             {'Name':'印象笔记','Title':'An elephant never forgets.大象永远不会忘记事情','Href':'https://www.yinxiang.com/'},
                             {'Name':'XMind','Title':'流行思维导图软件，打造易用、美观、高效的可视化思维管理工具。','Href':'http://www.xmindchina.net/'},
-                            {'Name':'Markdown','Title':'为记录思想和分享知识提供更专业的工具。','Href':'https://www.zybuluo.com/mdeditor#425949'},
+                            {'Name':'Cmd Markdown','Title':'为记录思想和分享知识提供更专业的工具。','Href':'https://www.zybuluo.com/mdeditor#425949'},
 
                         ]
                     }
@@ -187,6 +190,20 @@ var FrontGuide =
 
                         ]
                     },
+                    {
+                        "pageT2":"MySQL",
+                        "pageC2":[
+                            {'Name':'MySQL基础相关','Title':'MySQL基础相关','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"版本控制",
+                        "pageC2":[
+                            {'Name':'Git分布式版本控制','Title':'Git 分布式版本控制','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1Qf_S82TAAwZ2NiT9q3W8iHh'},
+
+                        ]
+                    },
                 ]
             },
 
@@ -200,13 +217,13 @@ var FrontGuide =
                         ]
                     },
                     {
-                        "pageT2":"产品设计/交互/UED",
+                        "pageT2":"产品设计",
                         "pageC2":[
                             {'Name':'认知与设计','Title':'理解 UI 设计准则-从认知心理学的角度来阐释互联网产品的交互设计','Href':'#'},
                 ]
                     },
                     {
-                        "pageT2":"思维方式/软实力",
+                        "pageT2":"思维方式",
                         "pageC2":[
                             {'Name':'金字塔原理','Title':'思考、表达和解决问题的逻辑','Href':'http://e.dangdang.com/pc/reader/index.html?id=1900568573',"New":"1"},
                             {'Name':'刻意练习','Title':'天才的成就源于“正确的练习”，这种提高技能的黄金标准被定义为「刻意练习」','Href':'https://book.douban.com/review/8345902/'},
