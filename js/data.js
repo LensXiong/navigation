@@ -76,6 +76,7 @@ var FrontGuide =
                             {'Name':'极光推送','Title':'JPush官方文档','Href':'https://docs.jiguang.cn/'},
                             {'Name':'环信即时通讯云','Title':'环信即时通讯云 V3.0','Href':'http://docs.easemob.com/im/start'},
                             {'Name':'TCPDF','Title':'Open Source PHP class for generating PDF documents','Href':'https://tcpdf.org/'},
+                            {'Name':'对象存储 OSS','Title':'阿里云对象存储服务（Object Storage Service，简称 OSS），是阿里云提供的海量、安全、低成本、高可靠的云存储服务。','Href':'https://www.alibabacloud.com/help/zh/doc-detail/31890.htm?spm=a3c0i.o31835zh.b99.16.7be3ca328jFssC'},
 
                         ]
                     },
@@ -83,6 +84,8 @@ var FrontGuide =
                         "pageT2":"Github 相关",
                         "pageC2":[
                             {'Name':'TCPDF','Title':'PHP PDF Library','Href':'https://github.com/tecnickcom/TCPDF'},
+                            {'Name':'PHPExcel','Title':'PHPExcel - OpenXML - Read, Write and Create spreadsheet documents in PHP - Spreadsheet engine','Href':'https://github.com/PHPOffice/PHPExcel'},
+                            {'Name':'OSS','Title':'Alibaba Cloud OSS SDK for PHP','Href':'https://github.com/aliyun/aliyun-oss-php-sdk?spm=a3c0i.o32099zh.a3.1.314891e5al7rom'},
 
                         ]
                     },
