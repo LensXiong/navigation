@@ -240,9 +240,10 @@ var FrontGuide =
                         ]
                     },
                     {
-                        "pageT2":"版本控制",
+                        "pageT2":"Other",
                         "pageC2":[
                             {'Name':'Git 分布式版本控制','Title':'Git 分布式版本控制','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1Qf_S82TAAwZ2NiT9q3W8iHh'},
+                            {'Name':'Make It Your PHPStrom','Title':'PhpStorm 在我认为是最好的 PHP IDE，它拥有许多的特性比如：多点编辑，代码模板，xdebug 配合使用，测试集成，git 集成等','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh0JEcQK3uOQxZ2dP7gO093BrJ'},
 
                         ]
                     },
