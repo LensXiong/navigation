@@ -45,11 +45,13 @@ var FrontGuide =
                     {
                         "pageT2":"DBA 相关",
                         "pageC2":[
-                            {'Name':'SSDB  官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+                            {'Name':'Redis 知识结构','Title':'Redis 知识结构的动态图谱','Href':'http://lib.csdn.net/base/redis/structure'},
                             {'Name':'Redis 中文','Title':'Redis 中文网站。','Href':'http://www.redis.cn/commands.html'},
                             {'Name':'Redis 官方','Title':'Redis 官方网站。','Href':'https://redis.io/commands'},
-                            {'Name':'Mysql 社区','Title':'Mysql 中文社区。','Href':'http://www.mysqlpub.com/'},
                             {'Name':'Redis 教程','Title':'Redis 教程。','Href':'http://www.runoob.com/redis/redis-tutorial.html'},
+                            {'Name':'Redis 知识库 ','Title':'Redis 知识库，包括视频、书籍、代码。','Href':'http://lib.csdn.net/base/redis'},
+                            {'Name':'SSDB  官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+                            {'Name':'Mysql 社区','Title':'Mysql 中文社区。','Href':'http://www.mysqlpub.com/'},
 
                         ]
                     },
@@ -93,6 +95,7 @@ var FrontGuide =
                         "pageT2":"版本控制",
                         "pageC2":[
                             {'Name':'SVN 命令','Title':'SVN 命令参考（svn command reference）','Href':'http://oss.akhack.com/man/svn_cmd.html'},
+                            {'Name':'Git 知识结构','Title':'Git 知识结构的动态图谱','Href':'http://lib.csdn.net/base/git/structure'},
                             {'Name':'Pro Git','Title':'此书由Scott Chacon所著，并且书籍内容完全开源，以Creative Commons Attribution Non Commercial Share Alike 3.0 license共享。书籍源码放置在Github的progit/progit仓库中。 打印版本由Apress出版发行，美国亚马逊购买链接：Amazon.com Link。','Href':'http://iissnan.com/progit/'},
                             {'Name':'Git 教程','Title':'廖雪峰 Git 教程','Href':'https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000'},
 
