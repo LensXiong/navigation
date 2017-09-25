@@ -58,6 +58,7 @@ var FrontGuide =
                     {
                         "pageT2":"Linux 相关",
                         "pageC2":[
+                            {'Name':'Linux 命令工具','Title':'Linux常用命令工具和工具进阶','Href':'https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html'},
                             {'Name':'Linux 教程','Title':'Linux的发行版本Centos,介绍Linux系统的应用','Href':'http://www.runoob.com/linux/linux-tutorial.html'},
                             {'Name':'鸟哥的Linux私房菜(第四版)','Title':'鸟哥的Linux私房菜-基础学习篇(第四版)高清完整书签PDF版','Href':'https://carey.akhack.com/img/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87(%E7%AC%AC%E5%9B%9B%E7%89%88)%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E4%B9%A6%E7%AD%BEPDF%E7%89%88%EF%BC%88Linuxidc.com%EF%BC%89.pdf'},
 
@@ -231,7 +232,8 @@ var FrontGuide =
                     {
                         "pageT2":"Linux",
                         "pageC2":[
-                            {'Name':'Linux 命令（上）','Title':'Linux 命令','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2g26k52x_QHy2NBj6G11q6Es'},
+                            {'Name':'Linux 命令（上）','Title':'Linux 命令学习总结记录（上）','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2g26k52x_QHy2NBj6G11q6Es'},
+                            {'Name':'Linux 命令（中）','Title':'Linux 命令学习总结记录（中）','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1rpwtj1YAAGh2tb_FN1padqJ'},
 
                         ]
                     },
