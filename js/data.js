@@ -352,7 +352,8 @@ var FrontGuide =
                     {
                         "pageT2":"友情链接",
                         "pageC2":[
-                            {'Name':'SSDB 官方','Title':'一个高性能的支持丰富数据结构的 NoSQL 数据库, 用于替代 Redis.','Href':'http://ssdb.io/zh_cn/'},
+                            {'Name':'Jekyll','Title':'将纯文本转换为静态博客网站','Href':'http://jekyll.com.cn/'},
+                            {'Name':'Hexo','Title':'A fast, simple & powerful blog framework','Href':'https://hexo.io/docs/'},
 
                         ]
                     }
