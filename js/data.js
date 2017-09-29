@@ -215,6 +215,8 @@ var FrontGuide =
                             {'Name':'SSDB本地','Title':'本地环境SSDB amt amtssdb','Href':'http://192.168.56.101/ssdb/kv/scan'},
                             {'Name':'SSDB测试','Title':'本地环境SSDB imtou imtou@8962','Href':'http://182.92.209.29/ssdb/login'},
 
+                            {'Name':'测试环境商户后台','Title':'11111111','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
+                            {'Name':'正式环境商户后台','Title':'','Href':'http://59.151.33.211/bha-neo-merchant/login.do'},
                         ]
                     },
                     {
@@ -241,6 +243,7 @@ var FrontGuide =
                         "pageT2":"MySQL",
                         "pageC2":[
                             {'Name':'MySQL 基础相关','Title':'MySQL基础相关','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
+                            {'Name':'每日问答','Title':'每天坚持关于技术方的自问自答','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1VuWyt1dYQUO2miOdD3RZ8Xk'},
 
                         ]
                     },
@@ -334,14 +337,17 @@ var FrontGuide =
                     {
                         "pageT2":"好友链接",
                         "pageC2":[
-                            {'Name':'小韦运维博客','Title':'小韦的博客','Href':'https://carey.akhack.com/'},
+                            {'Name':'韦智强','Title':'小韦的博客','Href':'https://carey.akhack.com/'},
+                            {'Name':'刘鹏','Title':'刘鹏的博客','Href':'http://www.liup.win/'},
+                            {'Name':'李鹏','Title':'李鹏的博客','Href':'http://www.llliii.win/'},
 
                         ]
                     },
                     {
                         "pageT2":"关注链接",
                         "pageC2":[
-                            {'Name':'阿里中间件团队博客','Title':'致力于成为中国第一，世界一流的中间件技术团队','Href':'http://jm.taobao.org/'},
+                            {'Name':'阿里中间件团队','Title':'致力于成为中国第一，世界一流的中间件技术团队','Href':'http://jm.taobao.org/'},
+                            {'Name':'美团点评技术团队','Title':'美团点评技术团队','Href':'https://tech.meituan.com/'},
                             {'Name':'王巍 (@onevcat)','Title':'上善若水，人淡如菊','Href':'https://onevcat.com/'},
                             {'Name':'罗磊的独立博客','Title':'在每一个美好的思想前停留','Href':'https://luolei.org/'},
                             {'Name':'张丹(Conan)','Title':'跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, NoSQL, IT金融','Href':'http://blog.fens.me/'},
