@@ -189,6 +189,7 @@ var FrontGuide =
                             {'Name':'印象笔记','Title':'An elephant never forgets.大象永远不会忘记事情','Href':'https://www.yinxiang.com/'},
                             {'Name':'XMind','Title':'流行思维导图软件，打造易用、美观、高效的可视化思维管理工具。','Href':'http://www.xmindchina.net/'},
                             {'Name':'Cmd Markdown','Title':'为记录思想和分享知识提供更专业的工具。','Href':'https://www.zybuluo.com/mdeditor#425949'},
+                            {'Name':'Markdown 语法手册','Title':'Markdown 语法手册 （完整整理版）','Href':'http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-30'},
 
                         ]
                     },
@@ -217,6 +218,9 @@ var FrontGuide =
 
                             {'Name':'测试环境商户后台','Title':'11111111','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
                             {'Name':'正式环境商户后台','Title':'','Href':'http://59.151.33.211/bha-neo-merchant/login.do'},
+
+                            {'Name':'存管(测试)','Title':'77个0956 11111111','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
+                            {'Name':'存管','Title':'77个086 aimucaifu112233','Href':'http://59.151.33.211/bha-neo-merchant/poundageRecharge/init'},
                         ]
                     },
                     {
@@ -346,6 +350,7 @@ var FrontGuide =
                     {
                         "pageT2":"关注链接",
                         "pageC2":[
+                            {'Name':'鸟哥（惠新宸）','Title':'左手代码 右手诗','Href':'http://www.laruence.com/'},
                             {'Name':'阿里中间件团队','Title':'致力于成为中国第一，世界一流的中间件技术团队','Href':'http://jm.taobao.org/'},
                             {'Name':'美团点评技术团队','Title':'美团点评技术团队','Href':'https://tech.meituan.com/'},
                             {'Name':'王巍 (@onevcat)','Title':'上善若水，人淡如菊','Href':'https://onevcat.com/'},
