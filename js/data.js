@@ -237,27 +237,25 @@ var FrontGuide =
                 "pageT1":"笔记圈",
                 "pageC1":[
                     {
-                        "pageT2":"Linux",
+                        "pageT2":"PHP",
                         "pageC2":[
-                            {'Name':'Linux 命令（上）','Title':'Linux 命令学习总结记录（上）','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2g26k52x_QHy2NBj6G11q6Es'},
-                            {'Name':'Linux 命令（中）','Title':'Linux 命令学习总结记录（中）','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1rpwtj1YAAGh2tb_FN1padqJ'},
-
+                            {'Name':'PHP 基础-A','Title':'PHP知识点汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh0WktIF2rRkLs2Zu2q02VywFl'},
+                            {'Name':'PHP 专题-A','Title':'PHP 经典题型汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2y5m231djkss2U_uLt3dDUB-'},
                         ]
                     },
                     {
                         "pageT2":"MySQL",
                         "pageC2":[
-                            {'Name':'MySQL 基础相关','Title':'MySQL基础相关','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
-                            {'Name':'每日问答','Title':'每天坚持关于技术方的自问自答','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1VuWyt1dYQUO2miOdD3RZ8Xk'},
-
+                            {'Name':'MySQL 基础-A','Title':'MySQL 基础知识汇总','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
+                            {'Name':'MySQL 基础-B','Title':'MySQL 基础知识汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2Bpon517KklV2WLNMZ18rUwE'},
+                            {'Name':'MySQL 专题-A','  Title':'MySQL 经典题型汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh3YWjBG3Z8QLe25BR4b15RBXB'},
                         ]
                     },
                     {
-                        "pageT2":"专题汇总",
+                        "pageT2":"Linux",
                         "pageC2":[
-                            {'Name':'PHP 专题一','Title':'PHP知识点汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh0WktIF2rRkLs2Zu2q02VywFl'},
-                            {'Name':'MySQL 专题一','Title':'MySQL知识点汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh3YWjBG3Z8QLe25BR4b15RBXB'},
-
+                            {'Name':'Linux 命令（上）','Title':'Linux 命令学习总结记录（上）','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2g26k52x_QHy2NBj6G11q6Es'},
+                            {'Name':'Linux 命令（中）','Title':'Linux 命令学习总结记录（中）','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1rpwtj1YAAGh2tb_FN1padqJ'},
                         ]
                     },
                     {
@@ -265,7 +263,7 @@ var FrontGuide =
                         "pageC2":[
                             {'Name':'Git 分布式版本控制','Title':'Git 分布式版本控制','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1Qf_S82TAAwZ2NiT9q3W8iHh'},
                             {'Name':'Make It Your PHPStrom','Title':'PhpStorm 在我认为是最好的 PHP IDE，它拥有许多的特性比如：多点编辑，代码模板，xdebug 配合使用，测试集成，git 集成等','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh0JEcQK3uOQxZ2dP7gO093BrJ'},
-
+                            {'Name':'每日问答','Title':'每天坚持关于技术方的自问自答','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1VuWyt1dYQUO2miOdD3RZ8Xk'},
                         ]
                     },
                 ]
