@@ -239,16 +239,16 @@ var FrontGuide =
                     {
                         "pageT2":"PHP",
                         "pageC2":[
-                            {'Name':'PHP 基础-A','Title':'PHP知识点汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh0WktIF2rRkLs2Zu2q02VywFl'},
-                            {'Name':'PHP 专题-A','Title':'PHP 经典题型汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2y5m231djkss2U_uLt3dDUB-'},
+                            {'Name':'PHP 基础(A)','Title':'PHP知识点汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh0WktIF2rRkLs2Zu2q02VywFl'},
+                            {'Name':'PHP 专题(A)','Title':'PHP 经典题型汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2y5m231djkss2U_uLt3dDUB-'},
                         ]
                     },
                     {
                         "pageT2":"MySQL",
                         "pageC2":[
-                            {'Name':'MySQL 基础-A','Title':'MySQL 基础知识汇总','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
-                            {'Name':'MySQL 基础-B','Title':'MySQL 基础知识汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2Bpon517KklV2WLNMZ18rUwE'},
-                            {'Name':'MySQL 专题-A','  Title':'MySQL 经典题型汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh3YWjBG3Z8QLe25BR4b15RBXB'},
+                            {'Name':'MySQL 基础(A)','Title':'MySQL 基础知识汇总','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
+                            {'Name':'MySQL 基础(B)','Title':'MySQL 基础知识汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2Bpon517KklV2WLNMZ18rUwE'},
+                            {'Name':'MySQL 专题(A)','  Title':'MySQL 经典题型汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh3YWjBG3Z8QLe25BR4b15RBXB'},
                         ]
                     },
                     {
