@@ -123,6 +123,7 @@ var FrontGuide =
                             {'Name':'Unix时间戳','Title':'站长之家','Href':'http://tool.chinaz.com/Tools/unixtime.aspx'},
                             {'Name':'JSON在线视图查看器','Title':'Online JSON Viewer','Href':'http://www.bejson.com/jsonviewernew/'},
                             {'Name':'在线JSON校验格式化工具','Title':'Be JSON','Href':'http://www.bejson.com/'},
+                            {'Name':'正则表达式在线测试','Title':'常用的正则表达式','Href':'https://c.runoob.com/front-end/854'},
 
                         ]
                     },
