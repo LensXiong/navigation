@@ -253,6 +253,14 @@ var FrontGuide =
                         ]
                     },
                     {
+                        "pageT2":"专题汇总",
+                        "pageC2":[
+                            {'Name':'PHP 专题一','Title':'PHP知识点汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh0WktIF2rRkLs2Zu2q02VywFl'},
+                            {'Name':'MySQL 专题一','Title':'MySQL知识点汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh3YWjBG3Z8QLe25BR4b15RBXB'},
+
+                        ]
+                    },
+                    {
                         "pageT2":"Other",
                         "pageC2":[
                             {'Name':'Git 分布式版本控制','Title':'Git 分布式版本控制','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh1Qf_S82TAAwZ2NiT9q3W8iHh'},
