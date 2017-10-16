@@ -227,6 +227,7 @@ var FrontGuide =
                     {
                         "pageT2":"线上环境",
                         "pageC2":[
+                            {'Name':'子账号（DMS）','Title':'imtou_wx@imtou','Href':'https://signin.aliyun.com/login.htm'},
                             {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
 
                         ]
