@@ -232,6 +232,14 @@ var FrontGuide =
 
                         ]
                     },
+                    {
+                        "pageT2":"协同办公",
+                        "pageC2":[
+                            {'Name':'一起写','Title':'','Href':'https://yiqixie.com/s/home/fcABvY8UuoeCqS9EgWWW2KqCK'},
+                            {'Name':'Worktile','Title':'','Href':'https://my.worktile.com/signin'},
+
+                        ]
+                    },
                 ]
             },
             {
