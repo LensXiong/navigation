@@ -186,7 +186,7 @@ var FrontGuide =
                     {
                         "pageT2":"知识管理",
                         "pageC2":[
-                            {'Name':'为知笔记','Title':'更适合国人使用的云笔记','Href':'https://note.wiz.cn/login'},
+                            {'Name':'为知笔记','Title':'大脑是用来思考的，记录的事交给我们','Href':'https://note.wiz.cn/login'},
                             {'Name':'印象笔记','Title':'An elephant never forgets.大象永远不会忘记事情','Href':'https://www.yinxiang.com/'},
                             {'Name':'XMind','Title':'流行思维导图软件，打造易用、美观、高效的可视化思维管理工具。','Href':'http://www.xmindchina.net/'},
                             {'Name':'Cmd Markdown','Title':'为记录思想和分享知识提供更专业的工具。','Href':'https://www.zybuluo.com/mdeditor#425949'},
