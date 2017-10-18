@@ -223,7 +223,7 @@ var FrontGuide =
                             {'Name':'存管(测试)','Title':'77个0956 11111111','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
                             {'Name':'存管','Title':'77个086 aimucaifu112233','Href':'http://59.151.33.211/bha-neo-merchant/poundageRecharge/init'},
 
-                            {'Name':'海口对外wiki','Title':'登录名：hkguest 密码：guest2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
+                            {'Name':'海口对外wiki','Title':'小hkguest 小guest2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
                         ]
                     },
                     {
