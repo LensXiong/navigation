@@ -238,7 +238,7 @@ var FrontGuide =
                         "pageT2":"协同办公",
                         "pageC2":[
                             {'Name':'一起写','Title':'','Href':'https://yiqixie.com/s/home/fcABvY8UuoeCqS9EgWWW2KqCK'},
-                            {'Name':'Worktile','Title':'','Href':'https://my.worktile.com/signin'},
+                            {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/signin?returnUrl=%2Ftasks%2Fprojects%2F599a4ce0d2fa9e6e2386f155'},
 
                         ]
                     },
