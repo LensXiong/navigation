@@ -224,6 +224,8 @@ var FrontGuide =
                             {'Name':'存管','Title':'77个086 aimucaifu112233','Href':'http://59.151.33.211/bha-neo-merchant/poundageRecharge/init'},
 
                             {'Name':'海口对外wiki','Title':'小hkguest 小guest2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
+
+                            {'Name':'云片网','Title':'13155101616','Href':'https://www.yunpian.com/entry'},
                         ]
                     },
                     {
@@ -239,6 +241,7 @@ var FrontGuide =
                         "pageC2":[
                             {'Name':'一起写','Title':'','Href':'https://yiqixie.com/s/home/fcABvY8UuoeCqS9EgWWW2KqCK'},
                             {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/signin?returnUrl=%2Ftasks%2Fprojects%2F599a4ce0d2fa9e6e2386f155'},
+                            {'Name':'未来1-3个月要做的事','Title':'','Href':'https://yiqixie.com/s/home/fcAAHfl_8_hHUt4PCYItI2TDS'},
 
                         ]
                     },
@@ -258,8 +261,8 @@ var FrontGuide =
                         "pageT2":"MySQL",
                         "pageC2":[
                             {'Name':'MySQL 基础(A)','Title':'MySQL 基础知识汇总','Href':'https://www.zybuluo.com/wangxiong/note/221676'},
-                            {'Name':'MySQL 基础(B)','Title':'MySQL 基础知识汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh2Bpon517KklV2WLNMZ18rUwE'},
-                            {'Name':'MySQL 专题(A)','  Title':'MySQL 经典题型汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1tCsPs3FEAti2PbyZz3rPzCh3YWjBG3Z8QLe25BR4b15RBXB'},
+                            {'Name':'MySQL 基础(B)','Title':'MySQL 基础知识汇总','Href':'http://5d99ccdc.wiz03.com/share/s/'},
+                            {'Name':'MySQL 专题(A)','  Title':'MySQL 经典题型汇总','Href':'http://5d99ccdc.wiz03.com/share/s/1t1tCsPs3FEAti2PbyZz3rPzCh2Bpon517KklV2WLNMZ18rUwECsPs3FEAti2PbyZz3rPzCh3YWjBG3Z8QLe25BR4b15RBXB'},
                         ]
                     },
                     {
