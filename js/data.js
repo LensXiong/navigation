@@ -241,6 +241,7 @@ var FrontGuide =
                         "pageC2":[
                             {'Name':'一起写','Title':'','Href':'https://yiqixie.com/s/home/fcABvY8UuoeCqS9EgWWW2KqCK'},
                             {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/signin?returnUrl=%2Ftasks%2Fprojects%2F599a4ce0d2fa9e6e2386f155'},
+
                             {'Name':'未来1-3个月要做的事','Title':'','Href':'https://yiqixie.com/s/home/fcAAHfl_8_hHUt4PCYItI2TDS'},
 
                         ]
