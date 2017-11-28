@@ -65,10 +65,15 @@ var FrontGuide =
                         ]
                     },
                     {
-                        "pageT2":"Nginx 相关",
+                        "pageT2":"环境 相关",
                         "pageC2":[
+                            {'Name':'Vagrant','Title':'Vagrant是一个基于Ruby的工具，用于创建和部署虚拟化开发环境。','Href':'https://www.vagrantup.com/vmware/index.html#learn-more'},
+
                             {'Name':'Nginx 官方','Title':'官方英文文档','Href':'http://nginx.org/'},
                             {'Name':'Nginx 中文','Title':'中文文档','Href':'http://www.nginx.cn/doc/'},
+
+
+
 
                         ]
                     },
