@@ -73,6 +73,8 @@ var FrontGuide =
                             {'Name':'Nginx 官方','Title':'官方英文文档','Href':'http://nginx.org/'},
                             {'Name':'Nginx 中文','Title':'中文文档','Href':'http://www.nginx.cn/doc/'},
 
+                            {'Name':'Mac快捷键','Title':'Mac快捷键','Href':'https://support.apple.com/zh-cn/HT201236'},
+
                         ]
                     },
                     {
