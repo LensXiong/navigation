@@ -244,6 +244,9 @@ var FrontGuide =
                     {
                         "pageT2":"协同办公",
                         "pageC2":[
+
+                            {'Name':'需求池','Title':'爱木财富需求池','Href':'https://yiqixie.com/s/home/fcACIr1-cVYc5ZBqHTvidP6e8'},
+
                             {'Name':'爱木财富Worktile','Title':'','Href':'https://aimucaifu.worktile.com/messages/chats/5a0593fb993ce051dffbb1c9'},
                             {'Name':'一起写','Title':'','Href':'https://yiqixie.com/s/home/fcABvY8UuoeCqS9EgWWW2KqCK'},
 
