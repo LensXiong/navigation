@@ -114,6 +114,28 @@ var FrontGuide =
                 "pageT1":"工具圈",
                 "pageC1":[
                     {
+                        "pageT2":"开发工具",
+                        "pageC2":[
+                            {'Name':'Chrome','Title':'开发者最友好的浏览器','Href':'http://www.google.cn/chrome/browser/desktop/index.html'},
+                            {'Name':'Alfred','Title':'Alfred 3 for Mac， 可以丢掉鼠标的神器','Href':'https://www.alfredapp.com/'},
+                            {'Name':'iTerm2','Title':'iTerm2 是MAC 下最好的终端工具','Href':'https://www.iterm2.com/'},
+                            {'Name':'Z Shell','Title':'Your terminal never felt this good before.','Href':'http://ohmyz.sh/'},
+                            {'Name':'Sublime Text','Title':'A sophisticated text editor for code, markup and prose','Href':'https://www.sublimetext.com/'},
+                            {'Name':'Sequel Pro','Title':'MAC 数据库管理工具','Href':'http://www.sequelpro.com/'},
+                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
+                        ]
+                    },
+                    {
+                        "pageT2":"MAC 环境",
+                        "pageC2":[
+                            {'Name':'Laravel Valet','Title':'Valet是为Mac提供的极简主义开发环境','Href':'https://laravel.com/docs/5.4/valet'},
+                            {'Name':'Laravel Homestead','Title':'Laravel Homestead是一个官方的、预安装好的Vagrant盒子','Href':'https://laravel.com/docs/4.2/homestead'},
+                            {'Name':'Composer ','Title':'Dependency Manager for PHP','Href':'https://getcomposer.org/'},
+                            {'Name':'Composer 中国镜像','Title':'PHP 依赖管理工具','Href':'http://www.phpcomposer.com/'},
+
+                        ]
+                    },
+                    {
                         "pageT2":"常用登录",
                         "pageC2":[
                             {'Name':'维基百科 英文','Title':'自由的百科全書','Href':'https://en.wikipedia.org/wiki/Main_Page'},
@@ -146,13 +168,6 @@ var FrontGuide =
                             {'Name':'VPN 蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
                             {'Name':'Google 地图','Title':'谷歌地图','Href':'http://www.google.cn/maps'},
                             {'Name':'Postman','Title':'Developing APIs is hard,Postman makes it easy','Href':'https://www.getpostman.com/'},
-                        ]
-                    },
-                    {
-                        "pageT2":"开发软件",
-                        "pageC2":[
-                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
-
                         ]
                     },
                 ]
