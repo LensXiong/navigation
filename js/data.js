@@ -68,6 +68,9 @@ var FrontGuide =
                         "pageT2":"环境 相关",
                         "pageC2":[
                             {'Name':'Vagrant','Title':'Vagrant是一个基于Ruby的工具，用于创建和部署虚拟化开发环境。','Href':'https://www.vagrantup.com/vmware/index.html#learn-more'},
+                            {'Name':'Docker 官方','Title':'Build,Ship,and Run Any App,Anywhere','Href':'https://www.docker.com/'},
+                            {'Name':'Docker 入门教程','Title':'Docker 入门教程','Href':'http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html'},
+                            {'Name':'Docker 中文','Title':'Docker中文社区','Href':'http://www.docker.org.cn/book/docker/what-is-docker-16.html'},
                             {'Name':'virtualbox','Title':'virtualbox下载地址','Href':'https://www.virtualbox.org/wiki/Downloads'},
 
                             {'Name':'Nginx 官方','Title':'官方英文文档','Href':'http://nginx.org/'},
@@ -114,7 +117,7 @@ var FrontGuide =
                 "pageT1":"工具圈",
                 "pageC1":[
                     {
-                        "pageT2":"开发工具",
+                        "pageT2":"开发神器",
                         "pageC2":[
                             {'Name':'Chrome','Title':'开发者最友好的浏览器','Href':'http://www.google.cn/chrome/browser/desktop/index.html'},
                             {'Name':'Alfred','Title':'Alfred 3 for Mac， 可以丢掉鼠标的神器','Href':'https://www.alfredapp.com/'},
@@ -390,9 +393,13 @@ var FrontGuide =
                     {
                         "pageT2":"好友链接",
                         "pageC2":[
+                            {'Name':'王巍 (@onevcat)','Title':'上善若水，人淡如菊','Href':'https://onevcat.com/'},
+                            {'Name':'罗磊的独立博客','Title':'在每一个美好的思想前停留','Href':'https://luolei.org/'},
+
                             {'Name':'韦智强','Title':'小韦的博客','Href':'https://carey.akhack.com/'},
                             {'Name':'刘鹏','Title':'刘鹏的博客','Href':'http://www.liup.win/'},
                             {'Name':'李鹏','Title':'李鹏的博客','Href':'http://www.llliii.win/'},
+
 
                         ]
                     },
@@ -400,12 +407,15 @@ var FrontGuide =
                         "pageT2":"关注链接",
                         "pageC2":[
                             {'Name':'鸟哥（惠新宸）','Title':'左手代码 右手诗','Href':'http://www.laruence.com/'},
+                            {'Name':'廖雪峰','Title':'廖雪峰的官方网站','Href':'https://www.liaoxuefeng.com/'},
+                            {'Name':'阮一峰','Title':'阮一峰的个人网站','Href':'http://www.ruanyifeng.com/home.html'},
+
                             {'Name':'阿里中间件团队','Title':'致力于成为中国第一，世界一流的中间件技术团队','Href':'http://jm.taobao.org/'},
                             {'Name':'美团点评技术团队','Title':'美团点评技术团队','Href':'https://tech.meituan.com/'},
-                            {'Name':'王巍 (@onevcat)','Title':'上善若水，人淡如菊','Href':'https://onevcat.com/'},
-                            {'Name':'罗磊的独立博客','Title':'在每一个美好的思想前停留','Href':'https://luolei.org/'},
+
                             {'Name':'张丹(Conan)','Title':'跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, NoSQL, IT金融','Href':'http://blog.fens.me/'},
                             {'Name':'褪墨','Title':'褪墨 时间管理','Href':'https://www.mifengtd.cn/'},
+
 
                         ]
                     },
