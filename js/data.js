@@ -194,7 +194,10 @@ var FrontGuide =
                             {'Name':'Coding','Title':'让开发更简单','Href':'https://coding.net/'},
                             {'Name':'Worktile','Title':'让工作更简单','Href':'https://my.worktile.com/signin'},
                             {'Name':'Tower','Title':'你的网上办公室','Href':'https://tower.im/users/sign_in'},
+                            {'Name':'Gitlab','Title':'A single application built from the ground up for the complete DevOps lifecycle.','Href':'https://about.gitlab.com/'},
+                            {'Name':'码云','Title':'国内的Git托管服务','Href':'https://gitee.com/'},
                             {'Name':'墨刀','Title':'强大易用的原型设计与协同工具','Href':'https://modao.cc/workspace/apps'},
+                            {'Name':'禅道','Title':'禅道项目管理软件','Href':'http://www.zentao.net/book/zentaopmshelp/38.html'},
 
                         ]
                     },
