@@ -251,6 +251,8 @@ var FrontGuide =
 
                             {'Name':'海口对外wiki','Title':'小hkguest 小guest2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
 
+                            {'Name':'君子签','Title':'君子签','Href':'https://i.junziqian.com/register/registerPage?tag=company'},
+
                             {'Name':'云片网','Title':'13155101616','Href':'https://www.yunpian.com/entry'},
                         ]
                     },
@@ -276,6 +278,14 @@ var FrontGuide =
                             {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/signin?returnUrl=%2Ftasks%2Fprojects%2F599a4ce0d2fa9e6e2386f155'},
                             {'Name':'未来1-3个月要做的事','Title':'','Href':'https://yiqixie.com/s/home/fcAAHfl_8_hHUt4PCYItI2TDS'},
 
+
+                        ]
+                    },
+                    {
+                        "pageT2":"金融行业",
+                        "pageC2":[
+                            {'Name':'积木盒子','Title':'积木盒子，系积木拼图集团旗下线上网络借贷信息中介平台','Href':'https://www.jimu.com/'},
+                            {'Name':'多彩投','Title':'全球专业地产及空间众筹平台','Href':'https://www.duocaitou.com/?pcode=dctBDpzhgw'},
 
                         ]
                     },
