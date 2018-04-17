@@ -244,12 +244,12 @@ var FrontGuide =
                             {'Name':'SSDB测试','Title':'本地环境SSDB imtou imtou@8962','Href':'http://182.92.209.29/ssdb/login'},
 
                             {'Name':'海口存管银行（测）','Title':'11111111','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
-                            {'Name':'海口联合农商银行存管系统','Title':'','Href':'http://59.151.33.211/bha-neo-merchant/login.do'},
-                            {'Name':'海口联合农商银行存管系统（升级后）','Title':'','Href':'http://119.253.84.188/bha-neo-merchant/login.do'},
+                            {'Name':'海口联合农商银行存管系统','Title':'','Href':'https://cg2.unitedbank.cn/bha-neo-merchant/login.do'},
                             {'Name':'海口对外wiki','Title':'小hkguest 小guest2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
                             {'Name':'存管通商户后台','Title':'保障你的资金安全','Href':'http://59.151.52.81/bha-neo-merchant/login.do'},
 
-                            {'Name':'君子签','Title':'君子签','Href':'https://i.junziqian.com/register/registerPage?tag=company'},
+                            {'Name':'易保全君子签','Title':'君子签','Href':'https://i.junziqian.com/register/registerPage?tag=company'},
+                            {'Name':'同盾风控云','Title':'企业贷前服务&企业贷后监控','Href':'https://portaltest.tongdun.cn'},
 
                             {'Name':'云片网','Title':'13155101616','Href':'https://www.yunpian.com/entry'},
                         ]
