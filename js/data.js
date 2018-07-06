@@ -154,6 +154,7 @@ var FrontGuide =
                             {'Name':'JSON在线视图查看器','Title':'Online JSON Viewer','Href':'http://www.bejson.com/jsonviewernew/'},
                             {'Name':'在线JSON校验格式化工具','Title':'Be JSON','Href':'http://www.bejson.com/'},
                             {'Name':'正则表达式在线测试','Title':'常用的正则表达式','Href':'https://c.runoob.com/front-end/854'},
+                            {'Name':'JSRUN工具箱','Title':'JSRUN工具箱','Href':'http://jsrun.net/app/v2qKp'},
                             {'Name':'身份证号码生成器','Title':'指定出生地、出生日期及性别就可生成1到999个格式正确的身份证号码！','Href':'http://xcsky.me/xcsfz/sfz.html'},
                             {'Name':'Draw.io流程图绘制','Title':'流程图、数据库的E-R图绘制工具','Href':'https://www.draw.io/#G1oJeXYQ39TNMs8fPKLYpaEXPddkSSzJAz'},
 
