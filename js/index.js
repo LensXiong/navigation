@@ -445,7 +445,7 @@ $(document).click(function(){
         var textVal = $(this).text();
         $(".search-val").val(textVal);
         $(this).parents(".search-select").find(".options").hide();
-        // $(".search-hd").find('input').focus();搜索下拉选择后获取焦点
+        //$(".search-hd").find('input').focus();搜索下拉选择后获取焦点
         return false;
     });
 

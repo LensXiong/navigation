@@ -401,6 +401,15 @@ var FrontGuide =
                             {'Name':'博客主页','Title':'我的主页','Href':'http://wwxiong.com/',"New":"1"},
                             {'Name':'技术博客','Title':'文章列表','Href':'http://wwxiong.com/hexo_blog'},
                             {'Name':'前端导航','Title':'导航列表','Href':'http://wwxiong.com/navigation/index.html'},
+                        ]
+                    },
+                     {
+                        "pageT2":"博客主题",
+                        "pageC2":[
+                            {'Name':'nexT Github','Title':'github','Href':'https://github.com/iissnan/hexo-theme-next'},
+                            {'Name':'nexT 主题汇总 ','Title':'iissnan/hexo-theme-next','Href':'https://github.com/iissnan/hexo-theme-next/issues/119'},
+                            {'Name':'新乐街口的三角窗','Title':'我，在这里，享受等你的时光','Href':'https://oawan.me/'},
+                           
 
                         ]
                     },
