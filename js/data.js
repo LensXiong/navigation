@@ -399,6 +399,7 @@ var FrontGuide =
                         "pageT2":"我的链接",
                         "pageC2":[
                             {'Name':'博客主页','Title':'我的主页','Href':'http://wwxiong.com/',"New":"1"},
+                            {'Name':'Lofter','Title':'让兴趣，更有趣','Href':'http://lensxiong.lofter.com/',"New":"1"},
                             {'Name':'技术博客','Title':'文章列表','Href':'http://wwxiong.com/hexo_blog'},
                             {'Name':'前端导航','Title':'导航列表','Href':'http://wwxiong.com/navigation/index.html'},
                         ]
