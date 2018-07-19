@@ -439,6 +439,7 @@ var FrontGuide =
 
                             {'Name':'张丹(Conan)','Title':'跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, NoSQL, IT金融','Href':'http://blog.fens.me/'},
                             {'Name':'褪墨','Title':'褪墨 时间管理','Href':'https://www.mifengtd.cn/'},
+                             {'Name':'杜缙','Title':'缙哥哥的博客','Href':'https://www.dujin.org/navs/'},
 
 
                         ]
