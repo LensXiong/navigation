@@ -194,13 +194,13 @@ var FrontGuide =
                     {
                         "pageT2":"工作相关",
                         "pageC2":[
-                            {'Name':'子账号（DMS）','Title':'imtou_wx@imtou','Href':'https://signin.aliyun.com/login.htm'},
+                            {'Name':'子账号（DMS）','Title':'imtou_wx@im**u','Href':'https://signin.aliyun.com/login.htm'},
                             {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
 
-                            {'Name':'存管银行（测）','Title':'11111111','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
+                            {'Name':'存管银行（测）','Title':'111111**','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
                             {'Name':'银行存管系统','Title':'','Href':'https://cg2.unitedbank.cn/bha-neo-merchant/login.do'},
                             
-                            {'Name':'海口对外wiki','Title':'小hkguest 小guest2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
+                            {'Name':'海口对外wiki','Title':'小hkguest 小gue**2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
                             {'Name':'存管通商户后台','Title':'保障你的资金安全','Href':'http://59.151.52.81/bha-neo-merchant/login.do'},
 
                             {'Name':'易保全君子签','Title':'君子签','Href':'https://i.junziqian.com/register/registerPage?tag=company'},
@@ -223,8 +223,8 @@ var FrontGuide =
                             {'Name':'本地企业','Title':'本地环境企业后台','Href':'http://www.aimutou.cc/loan/login/index'},
                             {'Name':'测试企业','Title':'测试环境企业后台','Href':'http://www.zhuomn.cn/loan/login/index'},
 
-                            {'Name':'SSDB本地','Title':'本地环境SSDB amt amtssdb','Href':'http://192.168.56.101/ssdb/kv/scan'},
-                            {'Name':'SSDB测试','Title':'本地环境SSDB imtou imtou@8962','Href':'http://182.92.209.29/ssdb/login'},
+                            {'Name':'SSDB本地','Title':'本地环境SSDB amt a**ssdb','Href':'http://192.168.56.101/ssdb/kv/scan'},
+                            {'Name':'SSDB测试','Title':'本地环境SSDB imtou im***@8962','Href':'http://182.92.209.29/ssdb/login'},
 
                             {'Name':'Dzzoffice(内网)','Title':'Dzzoffice','Href':'http://192.168.1.162:8080/'},
 
@@ -234,16 +234,8 @@ var FrontGuide =
                         "pageT2":"协同办公",
                         "pageC2":[
 
-                            {'Name':'需求池','Title':'需求池','Href':'https://yiqixie.com/s/home/fcACIr1-cVYc5ZBqHTvidP6e8'},
-
+                            {'Name':'一起写需求池','Title':'需求池','Href':'https://yiqixie.com/s/home/fcACIr1-cVYc5ZBqHTvidP6e8'},
                             {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/messages/chats/5a0593fb993ce051dffbb1c9'},
-                            {'Name':'一起写','Title':'','Href':'https://yiqixie.com/s/home/fcABvY8UuoeCqS9EgWWW2KqCK'},
-
-                            {'Name':'各部每日问题协作','Title':'各部每日问题协作','Href':'https://yiqixie.com/s/home/fcABsXdij373W-EeTrPdxA49s'},
-
-                            {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/signin?returnUrl=%2Ftasks%2Fprojects%2F599a4ce0d2fa9e6e2386f155'},
-                            {'Name':'未来1-3个月要做的事','Title':'','Href':'https://yiqixie.com/s/home/fcAAHfl_8_hHUt4PCYItI2TDS'},
-
 
                         ]
                     },
