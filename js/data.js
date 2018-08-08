@@ -14,6 +14,80 @@
 var FrontGuide =
     {
         "main":[
+        {
+                "pageT1":"工具圈",
+                "pageC1":[
+                {
+                        "pageT2":"常用登录",
+                        "pageC2":[
+                            {'Name':'Google 搜索','Title':'搜索页面','Href':'https://www.google.ca/'},
+                            {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
+                            {'Name':'腾讯企业邮箱','Title':'腾讯企业邮箱','Href':'https://exmail.qq.com/cgi-bin/loginpage'},
+                            {'Name':'技术博客','Title':'文章列表','Href':'http://wwxiong.com/hexo_blog'},
+                            {'Name':'Github','Title':'Built for developers','Href':'https://github.com/LensXiong'},
+                            {'Name':'猫盘','Title':'可共享的智能硬盘，能赚比特币的区块链硬盘','Href':'http://x.maopan.io/',"New":"1"},
+                            {'Name':'Gmail 邮箱','Title':'Gmail邮箱','Href':'https://mail.google.com/mail/u/0/?tab=im#inbox',},
+                            {'Name':'阿里云','Title':'为了无法计算的价值','Href':'https://www.aliyun.com/'},
+                            {'Name':'维基百科 英文','Title':'自由的百科全書','Href':'https://en.wikipedia.org/wiki/Main_Page'},
+                            {'Name':'维基百科 中文','Title':'自由的百科全書','Href':'https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5'},
+                           
+                        ]
+                },
+                 {
+                        "pageT2":"常用工具",
+                        "pageC2":[
+                            {'Name':'Unix时间戳','Title':'站长之家','Href':'http://tool.chinaz.com/Tools/unixtime.aspx'},
+                            {'Name':'JSON在线视图查看器','Title':'Online JSON Viewer','Href':'http://www.bejson.com/jsonviewernew/'},
+                            {'Name':'在线JSON校验格式化工具','Title':'Be JSON','Href':'http://www.bejson.com/'},
+                            {'Name':'正则表达式在线测试','Title':'常用的正则表达式','Href':'https://c.runoob.com/front-end/854'},
+                            {'Name':'JSRUN工具箱','Title':'JSRUN工具箱','Href':'http://jsrun.net/app/v2qKp'},
+                            {'Name':'身份证号码生成器','Title':'指定出生地、出生日期及性别就可生成1到999个格式正确的身份证号码！','Href':'http://xcsky.me/xcsfz/sfz.html'},
+                            {'Name':'Draw.io流程图绘制','Title':'流程图、数据库的E-R图绘制工具','Href':'https://www.draw.io/#G1oJeXYQ39TNMs8fPKLYpaEXPddkSSzJAz'},
+
+                        ]
+                    },
+                    
+                    {
+                        "pageT2":"开发神器",
+                        "pageC2":[
+                            {'Name':'Chrome','Title':'开发者最友好的浏览器','Href':'http://www.google.cn/chrome/browser/desktop/index.html'},
+                            {'Name':'Alfred','Title':'Alfred 3 for Mac， 可以丢掉鼠标的神器','Href':'https://www.alfredapp.com/'},
+                            {'Name':'iTerm2','Title':'iTerm2 是MAC 下最好的终端工具','Href':'https://www.iterm2.com/'},
+                            {'Name':'Z Shell','Title':'Your terminal never felt this good before.','Href':'http://ohmyz.sh/'},
+                            {'Name':'Sublime Text','Title':'A sophisticated text editor for code, markup and prose','Href':'https://www.sublimetext.com/'},
+                            {'Name':'Sequel Pro','Title':'MAC 数据库管理工具','Href':'http://www.sequelpro.com/'},
+                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
+                        ]
+                    },
+                    {
+                        "pageT2":"MAC 环境",
+                        "pageC2":[
+                            {'Name':'Laravel Valet','Title':'Valet是为Mac提供的极简主义开发环境','Href':'https://laravel.com/docs/5.4/valet'},
+                            {'Name':'Laravel Homestead','Title':'Laravel Homestead是一个官方的、预安装好的Vagrant盒子','Href':'https://laravel.com/docs/4.2/homestead'},
+                            {'Name':'Composer ','Title':'Dependency Manager for PHP','Href':'https://getcomposer.org/'},
+                            {'Name':'Composer 中国镜像','Title':'PHP 依赖管理工具','Href':'http://www.phpcomposer.com/'},
+
+                        ]
+                    },
+                   
+                    {
+                        "pageT2":"社交工具",
+                        "pageC2":[
+                            {'Name':'Facebook','Title':'联系你我，分享生活','Href':'https://www.facebook.com/'},
+                            {'Name':'Twitter','Title':'聚焦当下','Href':'https://twitter.com/'},
+
+                        ]
+                    },
+                    {
+                        "pageT2":"其他工具",
+                        "pageC2":[
+                            {'Name':'VPN 蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
+                            {'Name':'Google 地图','Title':'谷歌地图','Href':'http://www.google.cn/maps'},
+                            {'Name':'Postman','Title':'Developing APIs is hard,Postman makes it easy','Href':'https://www.getpostman.com/'},
+                        ]
+                    },
+                ]
+            },
             {
                 "pageT1":"技术圈",
                 "pageC1":[
@@ -113,72 +187,78 @@ var FrontGuide =
 
                 ]
             },
+  
             {
-                "pageT1":"工具圈",
+                "pageT1":"工作圈",
                 "pageC1":[
                     {
-                        "pageT2":"开发神器",
+                        "pageT2":"工作相关",
                         "pageC2":[
-                            {'Name':'Chrome','Title':'开发者最友好的浏览器','Href':'http://www.google.cn/chrome/browser/desktop/index.html'},
-                            {'Name':'Alfred','Title':'Alfred 3 for Mac， 可以丢掉鼠标的神器','Href':'https://www.alfredapp.com/'},
-                            {'Name':'iTerm2','Title':'iTerm2 是MAC 下最好的终端工具','Href':'https://www.iterm2.com/'},
-                            {'Name':'Z Shell','Title':'Your terminal never felt this good before.','Href':'http://ohmyz.sh/'},
-                            {'Name':'Sublime Text','Title':'A sophisticated text editor for code, markup and prose','Href':'https://www.sublimetext.com/'},
-                            {'Name':'Sequel Pro','Title':'MAC 数据库管理工具','Href':'http://www.sequelpro.com/'},
-                            {'Name':'PhpStorm','Title':'高效智能的 PHP IDE','Href':'https://www.jetbrains.com/zh/phpstorm/specials/phpstorm/phpstorm.html'},
+                            {'Name':'子账号（DMS）','Title':'imtou_wx@imtou','Href':'https://signin.aliyun.com/login.htm'},
+                            {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
+
+                            {'Name':'存管银行（测）','Title':'11111111','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
+                            {'Name':'银行存管系统','Title':'','Href':'https://cg2.unitedbank.cn/bha-neo-merchant/login.do'},
+                            
+                            {'Name':'海口对外wiki','Title':'小hkguest 小guest2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
+                            {'Name':'存管通商户后台','Title':'保障你的资金安全','Href':'http://59.151.52.81/bha-neo-merchant/login.do'},
+
+                            {'Name':'易保全君子签','Title':'君子签','Href':'https://i.junziqian.com/register/registerPage?tag=company'},
+                            {'Name':'云片网','Title':'13155101616','Href':'https://www.yunpian.com/entry'},
                         ]
                     },
                     {
-                        "pageT2":"MAC 环境",
+                        "pageT2":"环境相关",
                         "pageC2":[
-                            {'Name':'Laravel Valet','Title':'Valet是为Mac提供的极简主义开发环境','Href':'https://laravel.com/docs/5.4/valet'},
-                            {'Name':'Laravel Homestead','Title':'Laravel Homestead是一个官方的、预安装好的Vagrant盒子','Href':'https://laravel.com/docs/4.2/homestead'},
-                            {'Name':'Composer ','Title':'Dependency Manager for PHP','Href':'https://getcomposer.org/'},
-                            {'Name':'Composer 中国镜像','Title':'PHP 依赖管理工具','Href':'http://www.phpcomposer.com/'},
+
+                            {'Name':'本地环境','Title':'本地前台','Href':'http://www.aimutou.cc/'},
+                            {'Name':'本地后台','Title':'本地环境后台','Href':'http://www.aimutou.cc/aht337/admin/user/login/index'},
+
+                            {'Name':'测试环境','Title':'测试环境','Href':'http://www.zhuomn.cn/'},
+                            {'Name':'测试后台','Title':'测试环境后台','Href':'http://www.zhuomn.cn/aht337/admin/user/login/index'},
+
+                            {'Name':'生产环境','Title':'生产环境','Href':'https://www.imtou.com/'},
+                            {'Name':'生产后台','Title':'生产环境后台','Href':'https://www.imtou.com/aht337/admin/user/login/index'},
+
+                            {'Name':'本地企业','Title':'本地环境企业后台','Href':'http://www.aimutou.cc/loan/login/index'},
+                            {'Name':'测试企业','Title':'测试环境企业后台','Href':'http://www.zhuomn.cn/loan/login/index'},
+
+                            {'Name':'SSDB本地','Title':'本地环境SSDB amt amtssdb','Href':'http://192.168.56.101/ssdb/kv/scan'},
+                            {'Name':'SSDB测试','Title':'本地环境SSDB imtou imtou@8962','Href':'http://182.92.209.29/ssdb/login'},
+
+                            {'Name':'Dzzoffice(内网)','Title':'Dzzoffice','Href':'http://192.168.1.162:8080/'},
 
                         ]
                     },
                     {
-                        "pageT2":"常用登录",
+                        "pageT2":"协同办公",
                         "pageC2":[
-                            {'Name':'维基百科 英文','Title':'自由的百科全書','Href':'https://en.wikipedia.org/wiki/Main_Page'},
-                            {'Name':'维基百科 中文','Title':'自由的百科全書','Href':'https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5'},
-                            {'Name':'阿里云','Title':'为了无法计算的价值','Href':'https://www.aliyun.com/'},
+
+                            {'Name':'需求池','Title':'需求池','Href':'https://yiqixie.com/s/home/fcACIr1-cVYc5ZBqHTvidP6e8'},
+
+                            {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/messages/chats/5a0593fb993ce051dffbb1c9'},
+                            {'Name':'一起写','Title':'','Href':'https://yiqixie.com/s/home/fcABvY8UuoeCqS9EgWWW2KqCK'},
+
+                            {'Name':'各部每日问题协作','Title':'各部每日问题协作','Href':'https://yiqixie.com/s/home/fcABsXdij373W-EeTrPdxA49s'},
+
+                            {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/signin?returnUrl=%2Ftasks%2Fprojects%2F599a4ce0d2fa9e6e2386f155'},
+                            {'Name':'未来1-3个月要做的事','Title':'','Href':'https://yiqixie.com/s/home/fcAAHfl_8_hHUt4PCYItI2TDS'},
+
 
                         ]
                     },
                     {
-                        "pageT2":"常用工具",
+                        "pageT2":"金融行业",
                         "pageC2":[
-                            {'Name':'Unix时间戳','Title':'站长之家','Href':'http://tool.chinaz.com/Tools/unixtime.aspx'},
-                            {'Name':'JSON在线视图查看器','Title':'Online JSON Viewer','Href':'http://www.bejson.com/jsonviewernew/'},
-                            {'Name':'在线JSON校验格式化工具','Title':'Be JSON','Href':'http://www.bejson.com/'},
-                            {'Name':'正则表达式在线测试','Title':'常用的正则表达式','Href':'https://c.runoob.com/front-end/854'},
-                            {'Name':'JSRUN工具箱','Title':'JSRUN工具箱','Href':'http://jsrun.net/app/v2qKp'},
-                            {'Name':'身份证号码生成器','Title':'指定出生地、出生日期及性别就可生成1到999个格式正确的身份证号码！','Href':'http://xcsky.me/xcsfz/sfz.html'},
-                            {'Name':'Draw.io流程图绘制','Title':'流程图、数据库的E-R图绘制工具','Href':'https://www.draw.io/#G1oJeXYQ39TNMs8fPKLYpaEXPddkSSzJAz'},
+                            {'Name':'积木盒子','Title':'积木盒子，系积木拼图集团旗下线上网络借贷信息中介平台','Href':'https://www.jimu.com/'},
+                            {'Name':'多彩投','Title':'全球专业地产及空间众筹平台','Href':'https://www.duocaitou.com/?pcode=dctBDpzhgw'},
 
-                        ]
-                    },
-                    {
-                        "pageT2":"社交工具",
-                        "pageC2":[
-                            {'Name':'Facebook','Title':'联系你我，分享生活','Href':'https://www.facebook.com/'},
-                            {'Name':'Twitter','Title':'聚焦当下','Href':'https://twitter.com/'},
-
-                        ]
-                    },
-                    {
-                        "pageT2":"其他工具",
-                        "pageC2":[
-                            {'Name':'VPN 蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
-                            {'Name':'Google 地图','Title':'谷歌地图','Href':'http://www.google.cn/maps'},
-                            {'Name':'Postman','Title':'Developing APIs is hard,Postman makes it easy','Href':'https://www.getpostman.com/'},
                         ]
                     },
                 ]
             },
-            {
+
+             {
                 "pageT1":"管理圈",
                 "pageC1":[
                     {
@@ -225,73 +305,7 @@ var FrontGuide =
                     },
                 ]
             },
-            {
-                "pageT1":"工作圈",
-                "pageC1":[
-                    {
-                        "pageT2":"爱木财富",
-                        "pageC2":[
-                            {'Name':'本地环境','Title':'本地前台','Href':'http://www.aimutou.cc/'},
-                            {'Name':'本地后台','Title':'本地环境后台','Href':'http://www.aimutou.cc/aht337/admin/user/login/index'},
 
-                            {'Name':'测试环境','Title':'测试环境','Href':'http://www.zhuomn.cn/'},
-                            {'Name':'测试后台','Title':'测试环境后台','Href':'http://www.zhuomn.cn/aht337/admin/user/login/index'},
-
-                            {'Name':'生产环境','Title':'生产环境','Href':'https://www.imtou.com/'},
-                            {'Name':'生产后台','Title':'生产环境后台','Href':'https://www.imtou.com/aht337/admin/user/login/index'},
-
-                            {'Name':'本地企业','Title':'本地环境企业后台','Href':'http://www.aimutou.cc/loan/login/index'},
-                            {'Name':'测试企业','Title':'测试环境企业后台','Href':'http://www.zhuomn.cn/loan/login/index'},
-
-                            {'Name':'SSDB本地','Title':'本地环境SSDB amt amtssdb','Href':'http://192.168.56.101/ssdb/kv/scan'},
-                            {'Name':'SSDB测试','Title':'本地环境SSDB imtou imtou@8962','Href':'http://182.92.209.29/ssdb/login'},
-
-                            {'Name':'海口存管银行（测）','Title':'11111111','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
-                            {'Name':'海口联合农商银行存管系统','Title':'','Href':'https://cg2.unitedbank.cn/bha-neo-merchant/login.do'},
-                            {'Name':'海口对外wiki','Title':'小hkguest 小guest2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
-                            {'Name':'存管通商户后台','Title':'保障你的资金安全','Href':'http://59.151.52.81/bha-neo-merchant/login.do'},
-
-                            {'Name':'易保全君子签','Title':'君子签','Href':'https://i.junziqian.com/register/registerPage?tag=company'},
-                            {'Name':'同盾风控云','Title':'企业贷前服务&企业贷后监控','Href':'https://portaltest.tongdun.cn'},
-
-                            {'Name':'云片网','Title':'13155101616','Href':'https://www.yunpian.com/entry'},
-                        ]
-                    },
-                    {
-                        "pageT2":"线上环境",
-                        "pageC2":[
-                            {'Name':'子账号（DMS）','Title':'imtou_wx@imtou','Href':'https://signin.aliyun.com/login.htm'},
-                            {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
-
-                        ]
-                    },
-                    {
-                        "pageT2":"协同办公",
-                        "pageC2":[
-
-                            {'Name':'需求池','Title':'爱木财富需求池','Href':'https://yiqixie.com/s/home/fcACIr1-cVYc5ZBqHTvidP6e8'},
-
-                            {'Name':'爱木财富Worktile','Title':'','Href':'https://aimucaifu.worktile.com/messages/chats/5a0593fb993ce051dffbb1c9'},
-                            {'Name':'一起写','Title':'','Href':'https://yiqixie.com/s/home/fcABvY8UuoeCqS9EgWWW2KqCK'},
-
-                            {'Name':'各部每日问题协作','Title':'各部每日问题协作','Href':'https://yiqixie.com/s/home/fcABsXdij373W-EeTrPdxA49s'},
-
-                            {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/signin?returnUrl=%2Ftasks%2Fprojects%2F599a4ce0d2fa9e6e2386f155'},
-                            {'Name':'未来1-3个月要做的事','Title':'','Href':'https://yiqixie.com/s/home/fcAAHfl_8_hHUt4PCYItI2TDS'},
-
-
-                        ]
-                    },
-                    {
-                        "pageT2":"金融行业",
-                        "pageC2":[
-                            {'Name':'积木盒子','Title':'积木盒子，系积木拼图集团旗下线上网络借贷信息中介平台','Href':'https://www.jimu.com/'},
-                            {'Name':'多彩投','Title':'全球专业地产及空间众筹平台','Href':'https://www.duocaitou.com/?pcode=dctBDpzhgw'},
-
-                        ]
-                    },
-                ]
-            },
             {
                 "pageT1":"笔记圈",
                 "pageC1":[
@@ -331,6 +345,12 @@ var FrontGuide =
             {
                 "pageT1":"书籍圈",
                 "pageC1":[
+                     {
+                        "pageT2":"技术相关",
+                        "pageC2":[
+                            {'Name':'Docker -- 从入门到实践','Title':'Docker -- 从入门到实践','Href':'https://yeasy.gitbooks.io/docker_practice/introduction/why.html',"New":"1"},
+                        ]
+                    },
                     {
                         "pageT2":"经济学",
                         "pageC2":[
