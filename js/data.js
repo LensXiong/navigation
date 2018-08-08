@@ -23,13 +23,13 @@ var FrontGuide =
                             {'Name':'Google 搜索','Title':'搜索页面','Href':'https://www.google.ca/'},
                             {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
                             {'Name':'腾讯企业邮箱','Title':'腾讯企业邮箱','Href':'https://exmail.qq.com/cgi-bin/loginpage'},
+                            {'Name':'后台登录','Title':'后台登录','Href':'https://www.imtou.com/aht337/index/index'},
+
                             {'Name':'技术博客','Title':'文章列表','Href':'http://wwxiong.com/hexo_blog'},
                             {'Name':'Github','Title':'Built for developers','Href':'https://github.com/LensXiong'},
-                            {'Name':'猫盘','Title':'可共享的智能硬盘，能赚比特币的区块链硬盘','Href':'http://x.maopan.io/',"New":"1"},
+                            {'Name':'猫盘','Title':'可共享的智能硬盘，能赚比特币的区块链硬盘','Href':'http://x.maopan.io/'},
                             {'Name':'Gmail 邮箱','Title':'Gmail邮箱','Href':'https://mail.google.com/mail/u/0/?tab=im#inbox',},
                             {'Name':'阿里云','Title':'为了无法计算的价值','Href':'https://www.aliyun.com/'},
-                            {'Name':'维基百科 英文','Title':'自由的百科全書','Href':'https://en.wikipedia.org/wiki/Main_Page'},
-                            {'Name':'维基百科 中文','Title':'自由的百科全書','Href':'https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5'},
                            
                         ]
                 },
@@ -71,19 +71,29 @@ var FrontGuide =
                     },
                    
                     {
-                        "pageT2":"社交工具",
-                        "pageC2":[
-                            {'Name':'Facebook','Title':'联系你我，分享生活','Href':'https://www.facebook.com/'},
-                            {'Name':'Twitter','Title':'聚焦当下','Href':'https://twitter.com/'},
-
-                        ]
-                    },
-                    {
                         "pageT2":"其他工具",
                         "pageC2":[
                             {'Name':'VPN 蓝灯','Title':'人人可享的真互联网','Href':'https://github.com/getlantern/lantern'},
                             {'Name':'Google 地图','Title':'谷歌地图','Href':'http://www.google.cn/maps'},
                             {'Name':'Postman','Title':'Developing APIs is hard,Postman makes it easy','Href':'https://www.getpostman.com/'},
+                            {'Name':'维基百科 英文','Title':'自由的百科全書','Href':'https://en.wikipedia.org/wiki/Main_Page'},
+                            {'Name':'维基百科 中文','Title':'自由的百科全書','Href':'https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5'},
+                        ]
+                    },
+
+                     {
+                        "pageT2":"社交工具",
+                        "pageC2":[
+                            {'Name':'Facebook','Title':'联系你我，分享生活','Href':'https://www.facebook.com/'},
+                            {'Name':'Twitter','Title':'聚焦当下','Href':'https://twitter.com/'},
+                            {'Name':'YouTube','Title':'与亲朋好友以及全世界分享您的视频','Href':'https://www.youtube.com/'},
+                           
+                            {'Name':'阿里云大学','Title':'云生态下的创新人才工厂','Href':'https://edu.aliyun.com/'},
+                            {'Name':'混沌大学','Title':'互联网创新大学','Href':'https://www.hundun.cn/'},
+                            {'Name':'三节课','Title':'加速互联网核心人才能力进阶','Href':'https://www.sanjieke.cn/'},
+                            
+                            {'Name':'微信公众平台','Title':'在小的个体，也有自己的品牌','Href':'https://mp.weixin.qq.com/'},
+
                         ]
                     },
                 ]
