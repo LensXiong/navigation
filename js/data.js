@@ -315,6 +315,7 @@ var FrontGuide =
                         "pageT2":"技术相关",
                         "pageC2":[
                             {'Name':'Docker -- 从入门到实践','Title':'Docker -- 从入门到实践','Href':'https://yeasy.gitbooks.io/docker_practice/introduction/why.html',"New":"1"},
+                            {'Name':'区块链技术指南','Title':'区块链技术指南','Href':'https://yeasy.gitbooks.io/blockchain_guide/content/',"New":"1"},
                         ]
                     },
                     {
