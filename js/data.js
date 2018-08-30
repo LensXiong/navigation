@@ -434,6 +434,7 @@ var FrontGuide =
                             {'Name':'nexT Github','Title':'github','Href':'https://github.com/iissnan/hexo-theme-next'},
                             {'Name':'nexT 主题汇总 ','Title':'iissnan/hexo-theme-next','Href':'https://github.com/iissnan/hexo-theme-next/issues/119'},
                             {'Name':'新乐街口的三角窗','Title':'我，在这里，享受等你的时光','Href':'https://oawan.me/'},
+                            {'Name':'螃蟹壳','Title':'个人博客','Href':'http://www.pangxieke.com/'},
                            
 
                         ]
