@@ -204,51 +204,13 @@ var FrontGuide =
                     {
                         "pageT2":"工作相关",
                         "pageC2":[
-                            {'Name':'子账号（DMS）','Title':'imtou_wx@im**u','Href':'https://signin.aliyun.com/login.htm'},
                             {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
-
                             {'Name':'存管银行（测）','Title':'111111**','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
-                            {'Name':'银行存管系统','Title':'','Href':'https://cg2.unitedbank.cn/bha-neo-merchant/login.do'},
-                            
                             {'Name':'海口对外wiki','Title':'小hkguest 小gue**2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
-                            {'Name':'存管通商户后台','Title':'保障你的资金安全','Href':'http://59.151.52.81/bha-neo-merchant/login.do'},
-
-                            {'Name':'易保全君子签','Title':'君子签','Href':'https://i.junziqian.com/register/registerPage?tag=company'},
-                            {'Name':'云片网','Title':'13155101616','Href':'https://www.yunpian.com/entry'},
-                        ]
-                    },
-                    {
-                        "pageT2":"环境相关",
-                        "pageC2":[
-
-                            {'Name':'本地环境','Title':'本地前台','Href':'http://www.aimutou.cc/'},
-                            {'Name':'本地后台','Title':'本地环境后台','Href':'http://www.aimutou.cc/aht337/admin/user/login/index'},
-
-                            {'Name':'测试环境','Title':'测试环境','Href':'http://www.zhuomn.cn/'},
-                            {'Name':'测试后台','Title':'测试环境后台','Href':'http://www.zhuomn.cn/aht337/admin/user/login/index'},
-
-                            {'Name':'生产环境','Title':'生产环境','Href':'https://www.imtou.com/'},
-                            {'Name':'生产后台','Title':'生产环境后台','Href':'https://www.imtou.com/aht337/admin/user/login/index'},
-
-                            {'Name':'本地企业','Title':'本地环境企业后台','Href':'http://www.aimutou.cc/loan/login/index'},
-                            {'Name':'测试企业','Title':'测试环境企业后台','Href':'http://www.zhuomn.cn/loan/login/index'},
-
-                            {'Name':'SSDB本地','Title':'本地环境SSDB amt a**ssdb','Href':'http://192.168.56.101/ssdb/kv/scan'},
-                            {'Name':'SSDB测试','Title':'本地环境SSDB imtou im***@8962','Href':'http://182.92.209.29/ssdb/login'},
-
-                            {'Name':'Dzzoffice(内网)','Title':'Dzzoffice','Href':'http://192.168.1.162:8080/'},
 
                         ]
                     },
-                    {
-                        "pageT2":"协同办公",
-                        "pageC2":[
-
-                            {'Name':'一起写需求池','Title':'需求池','Href':'https://yiqixie.com/s/home/fcACIr1-cVYc5ZBqHTvidP6e8'},
-                            {'Name':'Worktile','Title':'','Href':'https://aimucaifu.worktile.com/messages/chats/5a0593fb993ce051dffbb1c9'},
-
-                        ]
-                    },
+                  
                     {
                         "pageT2":"金融行业",
                         "pageC2":[
@@ -315,6 +277,7 @@ var FrontGuide =
                         "pageT2":"技术相关",
                         "pageC2":[
                             {'Name':'Docker -- 从入门到实践','Title':'Docker -- 从入门到实践','Href':'https://yeasy.gitbooks.io/docker_practice/introduction/why.html',"New":"1"},
+                            {'Name':'PHP7内核剖析','Title':'PHP7内核剖析','Href':'https://www.kancloud.cn/nickbai/php7/363255',"New":"1"},
                             {'Name':'区块链技术指南','Title':'区块链技术指南','Href':'https://yeasy.gitbooks.io/blockchain_guide/content/',"New":"1"},
                         ]
                     },
