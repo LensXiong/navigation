@@ -423,6 +423,7 @@ var FrontGuide =
                             {'Name':'廖雪峰','Title':'廖雪峰的官方网站','Href':'https://www.liaoxuefeng.com/'},
                             {'Name':'阮一峰','Title':'阮一峰的个人网站','Href':'http://www.ruanyifeng.com/home.html'},
 
+                             {'Name':'四火','Title':'一个纯正程序员的啰嗦','Href':'http://www.raychase.net/allarticles'},
                             {'Name':'阿里中间件团队','Title':'致力于成为中国第一，世界一流的中间件技术团队','Href':'http://jm.taobao.org/'},
                             {'Name':'美团点评技术团队','Title':'美团点评技术团队','Href':'https://tech.meituan.com/'},
 
