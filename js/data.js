@@ -278,7 +278,8 @@ var FrontGuide =
                         "pageC2":[
                             {'Name':'Docker -- 从入门到实践','Title':'Docker -- 从入门到实践','Href':'https://yeasy.gitbooks.io/docker_practice/introduction/why.html',"New":"1"},
                             {'Name':'PHP7内核剖析','Title':'PHP7内核剖析','Href':'https://www.kancloud.cn/nickbai/php7/363255',"New":"1"},
-                            {'Name':'区块链技术指南','Title':'区块链技术指南','Href':'https://yeasy.gitbooks.io/blockchain_guide/content/',"New":"1"},
+                            {'Name':'区块链技术指南','Title':'区块链技术指南','Href':'https://yeasy.gitbooks.io/blockchain_guide/content/'},
+                            {'Name':'四火的唠叨','Title':'资源链接','Href':'http://www.raychase.net/resources/',"New":"1"},
                         ]
                     },
                     {
