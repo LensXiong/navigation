@@ -421,6 +421,7 @@ var FrontGuide =
                         "pageT2":"关注链接",
                         "pageC2":[
                             {'Name':'鸟哥（惠新宸）','Title':'左手代码 右手诗','Href':'http://www.laruence.com/'},
+                            {'Name':'刘末鹏','Title':'思维改变生活','Href':'http://mindhacks.cn/'},
                             {'Name':'廖雪峰','Title':'廖雪峰的官方网站','Href':'https://www.liaoxuefeng.com/'},
                             {'Name':'阮一峰','Title':'阮一峰的个人网站','Href':'http://www.ruanyifeng.com/home.html'},
 
