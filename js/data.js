@@ -43,6 +43,7 @@ var FrontGuide =
                             {'Name':'JSRUN工具箱','Title':'JSRUN工具箱','Href':'http://jsrun.net/app/v2qKp'},
                             {'Name':'身份证号码生成器','Title':'指定出生地、出生日期及性别就可生成1到999个格式正确的身份证号码！','Href':'http://xcsky.me/xcsfz/sfz.html'},
                             {'Name':'Draw.io流程图绘制','Title':'流程图、数据库的E-R图绘制工具','Href':'https://www.draw.io/#G1oJeXYQ39TNMs8fPKLYpaEXPddkSSzJAz'},
+                            {'Name':'JSON Viewer','Title':'JSON神器 语法高亮JSON格式数据','Href':'https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh'},
 
                         ]
                     },
@@ -142,6 +143,7 @@ var FrontGuide =
                     {
                         "pageT2":"Linux 相关",
                         "pageC2":[
+                            {'Name':'Linux常用命令查询','Title':'Linux常用命令','Href':'https://wangchujiang.com/linux-command/'},
                             {'Name':'Linux 命令工具','Title':'Linux常用命令工具和工具进阶','Href':'https://linuxtools-rst.readthedocs.io/zh_CN/latest/base/index.html'},
                             {'Name':'Linux 教程','Title':'Linux的发行版本Centos,介绍Linux系统的应用','Href':'http://www.runoob.com/linux/linux-tutorial.html'},
                             {'Name':'鸟哥的Linux私房菜(第四版)','Title':'鸟哥的Linux私房菜-基础学习篇(第四版)高清完整书签PDF版','Href':'https://carey.akhack.com/img/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87(%E7%AC%AC%E5%9B%9B%E7%89%88)%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E4%B9%A6%E7%AD%BEPDF%E7%89%88%EF%BC%88Linuxidc.com%EF%BC%89.pdf'},
@@ -424,14 +426,16 @@ var FrontGuide =
                             {'Name':'刘末鹏','Title':'思维改变生活','Href':'http://mindhacks.cn/'},
                             {'Name':'廖雪峰','Title':'廖雪峰的官方网站','Href':'https://www.liaoxuefeng.com/'},
                             {'Name':'阮一峰','Title':'阮一峰的个人网站','Href':'http://www.ruanyifeng.com/home.html'},
+                            {'Name':'Samuel Reed','Title':'Samuel Reed','Href':'http://strml.net/'},
 
-                             {'Name':'四火','Title':'一个纯正程序员的啰嗦','Href':'http://www.raychase.net/allarticles'},
+                            {'Name':'四火','Title':'一个纯正程序员的啰嗦','Href':'http://www.raychase.net/allarticles'},
                             {'Name':'阿里中间件团队','Title':'致力于成为中国第一，世界一流的中间件技术团队','Href':'http://jm.taobao.org/'},
                             {'Name':'美团点评技术团队','Title':'美团点评技术团队','Href':'https://tech.meituan.com/'},
 
                             {'Name':'张丹(Conan)','Title':'跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, NoSQL, IT金融','Href':'http://blog.fens.me/'},
                             {'Name':'褪墨','Title':'褪墨 时间管理','Href':'https://www.mifengtd.cn/'},
-                             {'Name':'杜缙','Title':'缙哥哥的博客','Href':'https://www.dujin.org/navs/'},
+                            {'Name':'杜缙','Title':'缙哥哥的博客','Href':'https://www.dujin.org/navs/'},
+                             
 
 
                         ]
