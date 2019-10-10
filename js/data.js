@@ -21,9 +21,7 @@ var FrontGuide =
                         "pageT2":"常用登录",
                         "pageC2":[
                             {'Name':'Google 搜索','Title':'搜索页面','Href':'https://www.google.ca/'},
-                            {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
                             {'Name':'腾讯企业邮箱','Title':'腾讯企业邮箱','Href':'https://exmail.qq.com/cgi-bin/loginpage'},
-                            {'Name':'后台登录','Title':'后台登录','Href':'https://www.imtou.com/aht337/index/index'},
 
                             {'Name':'技术博客','Title':'文章列表','Href':'http://wwxiong.com/hexo_blog'},
                             {'Name':'Github','Title':'Built for developers','Href':'https://github.com/LensXiong'},
@@ -206,9 +204,6 @@ var FrontGuide =
                     {
                         "pageT2":"工作相关",
                         "pageC2":[
-                            {'Name':'版本更新（DMS）','Title':' 服务器imtou_003 命令/wdata/script/aline_svnup.sh 小写r1000 小写r1001 小写r1002','Href':'https://dms.console.aliyun.com/#/dms/rsList'},
-                            {'Name':'存管银行（测）','Title':'111111**','Href':'http://101.200.54.92/bha-neo-merchant/login.do'},
-                            {'Name':'海口对外wiki','Title':'小hkguest 小gue**2017','Href':'http://wiki.lanmaoly.com/pages/viewpage.action?pageId=6127725'},
 
                         ]
                     },
@@ -435,8 +430,6 @@ var FrontGuide =
                             {'Name':'张丹(Conan)','Title':'跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, NoSQL, IT金融','Href':'http://blog.fens.me/'},
                             {'Name':'褪墨','Title':'褪墨 时间管理','Href':'https://www.mifengtd.cn/'},
                             {'Name':'杜缙','Title':'缙哥哥的博客','Href':'https://www.dujin.org/navs/'},
-                             
-
 
                         ]
                     },
