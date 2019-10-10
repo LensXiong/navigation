@@ -22,6 +22,7 @@ var FrontGuide =
                         "pageC2":[
                             {'Name':'Google 搜索','Title':'搜索页面','Href':'https://www.google.ca/'},
                             {'Name':'腾讯企业邮箱','Title':'腾讯企业邮箱','Href':'https://exmail.qq.com/cgi-bin/loginpage'},
+                            {'Name':'PHP官方手册','Title':'PHP官方手册','Href':'https://www.php.net/manual/zh/index.php'},
 
                             {'Name':'技术博客','Title':'文章列表','Href':'http://wwxiong.com/hexo_blog'},
                             {'Name':'Github','Title':'Built for developers','Href':'https://github.com/LensXiong'},
